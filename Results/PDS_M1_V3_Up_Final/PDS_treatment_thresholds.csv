@@ -1,0 +1,5 @@
+treatment,split_rule,cutoff_on_scale,cutoff_raw,share_high
+seller_N_total_value_high,median,7.55380947386562,1906.9973705057,0.5
+seller_N_1_total_value_high,median,7.40436710475125,1642.14456853104,0.5
+buyer_N_total_value_high,median,7.11524237951185,1229.58184288379,0.5
+buyer_N_1_total_value_high,median,7.6414850619777,2081.83465951533,0.501018848700968

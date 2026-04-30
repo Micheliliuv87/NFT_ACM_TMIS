@@ -1,0 +1,10 @@
+treatment,split_rule,cutoff_log,cutoff_raw,share_high0
+seller_N_total_value_high,median,7.47503850252401,1762.46958490957,0.5
+seller_N_1_total_value_high,median,7.17567678852588,1306.24452976845,0.5
+buyer_N_total_value_high,median,6.68544605065896,799.667736908218,0.5
+buyer_N_gaspaid_high,median,1.44985718123446,3.26250570589215,0.5
+seller_N_gaspaid_high,median,2.04147632721683,6.7019714396823,0.5
+seller_N_1_gaspaid_high,median,2.24880009587895,8.47635829037632,0.500475511174513
+buyer_N_gaslimit_cost_high,median,0.00993449099685974,0.00998400187183293,0.5
+seller_N_gaslimit_cost_high,median,0.0102888256597114,0.0103419376233987,0.5
+seller_N_1_gaslimit_cost_high,median,0.0110466319386316,0.0111078712655934,0.5

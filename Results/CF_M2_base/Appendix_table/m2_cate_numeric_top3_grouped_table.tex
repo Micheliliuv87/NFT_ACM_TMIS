@@ -1,0 +1,54 @@
+\begin{table}
+\caption{CATE Overview for Numeric Covariates Top3 by Slope $\text{CATE}_{pct}$}
+\label{tab:m2\_cate\_n}
+\begin{tabular}{llccc}
+\toprule
+Treatment & Covariate  & Cor  & Slope $\text{CATE}_{pct}$ Per Unit& SMD kept\\
+\midrule
+Buyer N-1 High &  &  &  & \\
+\\
+Gas Limit Cost & log\_buyern\_avg\_gasLimit\_cost & 0.045 & 39.548 & 0.382\\
+ & log\_buyern\_avg\_total\_gaspaid & 0.226 & 1.081 & -0.050\\
+ & log\_sellern\_1\_avg\_gasLimit\_cost & 0.050 & 43.833 & 0.066\\
+Gas Paid & log\_buyern\_1\_avg\_gasLimit\_cost & 0.390 & 878.839 & 0.854\\
+ & log\_buyern\_avg\_gasLimit\_cost & 0.193 & 384.855 & 0.014\\
+ & log\_sellern\_1\_avg\_gasLimit\_cost & 0.046 & 91.716 & 0.175\\
+Total Value & log\_median\_offer\_price & 0.249 & 3.686 & 0.204\\
+ & log\_sellern\_avg\_gasLimit\_cost & 0.151 & 200.491 & 0.249\\
+ & log\_unique\_makers\_count & 0.415 & 8.785 & 0.398\\
+Buyer N High &  &  &  & \\
+\\
+Gas Limit Cost & log\_price\_change\_n-1 & 0.172 & 1.727 & 0.154\\
+ & log\_buyern\_1\_avg\_gasLimit\_cost & 0.209 & 304.166 & 0.388\\
+ & log\_buyern\_total\_value & 0.361 & 2.040 & 0.307\\
+Gas Paid & log\_median\_offer\_price & 0.248 & 1.549 & -0.084\\
+ & log\_sellern\_1\_rolling\_avg\_value\_last10 & 0.370 & 2.045 & -0.019\\
+ & log\_unique\_makers\_count & 0.398 & 3.520 & -0.021\\
+Total Value & log\_buyern\_1\_avg\_gasLimit\_cost & 0.404 & 324.661 & -0.058\\
+ & log\_buyern\_avg\_gasLimit\_cost & 0.285 & 204.751 & 0.406\\
+ & log\_sellern\_avg\_gasLimit\_cost & 0.240 & 193.226 & 0.161\\
+Seller N-1 High &  &  &  & \\
+\\
+Gas Limit Cost & log\_buyern\_avg\_gasLimit\_cost & 0.142 & 66.875 & 0.143\\
+ & log\_sellern\_1\_rolling\_avg\_value\_last10 & 0.233 & 1.189 & 0.032\\
+ & log\_sellern\_avg\_gasLimit\_cost & 0.115 & 61.879 & 0.240\\
+Gas Paid & log\_price\_change\_n-1 & 0.093 & 2.234 & -0.232\\
+ & log\_buyern\_1\_avg\_gasLimit\_cost & 0.105 & 373.261 & 0.085\\
+ & log\_buyern\_avg\_gasLimit\_cost & 0.075 & 239.412 & 0.109\\
+Total Value & log\_median\_offer\_price & 0.239 & 3.969 & -0.042\\
+ & log\_sellern\_1\_rolling\_avg\_value\_last10 & 0.333 & 4.816 & 0.307\\
+ & log\_unique\_makers\_count & 0.339 & 8.357 & 0.032\\
+Seller N High &  &  &  & \\
+\\
+Gas Limit Cost & log\_buyern\_1\_rolling\_avg\_value\_last10 & 0.505 & 2.721 & -0.133\\
+ & log\_buyern\_rolling\_avg\_value\_last10 & 0.334 & 1.412 & -0.221\\
+ & log\_sellern\_rolling\_avg\_value\_last10 & 0.517 & 2.701 & -0.190\\
+Gas Paid & log\_median\_offer\_price & 0.253 & 2.458 & -0.094\\
+ & log\_sellern\_1\_rolling\_avg\_value\_last10 & 0.252 & 2.141 & -0.085\\
+ & log\_unique\_makers\_count & 0.362 & 5.179 & -0.036\\
+Total Value & log\_median\_offer\_price & 0.089 & 0.479 & 0.168\\
+ & log\_price\_1\_sale & 0.153 & 0.476 & 0.179\\
+ & log\_unique\_makers\_count & 0.066 & 0.528 & 0.276\\
+ \bottomrule
+\end{tabular}
+\end{table}

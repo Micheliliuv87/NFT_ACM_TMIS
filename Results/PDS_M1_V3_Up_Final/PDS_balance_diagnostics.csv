@@ -1,0 +1,1029 @@
+treatment,covariate,SMD_raw,SMD_kept,flag_gt_0_1,flag_gt_0_25
+seller_N_total_value_high,log_price_1_sale,0.172115401095207,0.0940702223375956,0,0
+seller_N_total_value_high,sold_after_30d,-0.523323258954163,-0.329562179830453,1,1
+seller_N_total_value_high,buyern_act_period,-0.298934083310184,0.0129808372734676,0,0
+seller_N_total_value_high,log_buyern_total_value,0.250146159580699,0.0178896286468691,0,0
+seller_N_total_value_high,log_buyern_rolling_avg_value_last10,0.0169572818037351,-0.00916773865576628,0,0
+seller_N_total_value_high,sellern_act_period,-0.203276168340792,0.122449997441297,1,0
+seller_N_total_value_high,log_sellern_rolling_avg_value_last10,0.293476035118758,0.0808438624583095,0,0
+seller_N_total_value_high,buyern_1_act_period,-0.368068629193647,-0.0757679614249965,0,0
+seller_N_total_value_high,log_buyern_1_total_value,1.59562890365254,1.11567404791626,1,1
+seller_N_total_value_high,log_buyern_1_rolling_avg_value_last10,0.262720922662268,0.128308139394739,1,0
+seller_N_total_value_high,sellern_1_act_period,-0.52659920349705,-0.149546242532958,1,0
+seller_N_total_value_high,log_sellern_1_total_value,0.207545897491502,0.0959898037475925,0,0
+seller_N_total_value_high,log_sellern_1_rolling_avg_value_last10,0.283715940522108,0.11551692148248,1,0
+seller_N_total_value_high,log_unique_makers_count,0.372519843402802,0.122353507459781,1,0
+seller_N_total_value_high,log_median_offer_price,0.156624610620421,0.0704157918380985,0,0
+seller_N_total_value_high,log_buyern_avg_total_gaspaid,0.150923039560758,0.0261634491505321,0,0
+seller_N_total_value_high,log_buyern_1_avg_total_gaspaid,0.734972098713021,0.340001008015906,1,1
+seller_N_total_value_high,log_sellern_avg_total_gaspaid,1.42324084569609,0.995015962302694,1,1
+seller_N_total_value_high,log_sellern_1_avg_total_gaspaid,0.136230357449391,-0.00102321501728719,0,0
+seller_N_total_value_high,log_buyern_avg_gasLimit_cost,-0.187431757887678,-0.0268523799798135,0,0
+seller_N_total_value_high,log_buyern_1_avg_gasLimit_cost,-0.0848396249681414,-0.0717393273050316,0,0
+seller_N_total_value_high,log_sellern_avg_gasLimit_cost,0.528469017263389,0.17594223194493,1,0
+seller_N_total_value_high,log_sellern_1_avg_gasLimit_cost,0.0523812748736935,-0.00195667117608281,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-06`,-0.197670340486337,-0.0187089864379545,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-07`,-0.120914602916761,0.00040693481570724,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-08`,-0.0823263305120191,0.0170824208020226,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-09`,-0.0365075093648482,0.0130894476095668,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-10`,-0.0764802929821622,-0.060507280536488,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-11`,-0.069517858000014,-0.0184189310960986,0,0
+seller_N_total_value_high,`time_n_sale_str_2021-12`,-0.0838078816632624,-0.0549677679848366,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-01`,-0.0841790866498178,-0.0474371820248977,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-02`,-0.0472065331410013,-0.0087105940819002,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-03`,-0.078942941309084,-0.0366154929782376,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-04`,-0.0557265641437752,-0.0208813814481192,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-05`,-0.0830431521720493,-0.0622600904755218,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-06`,-0.029578422366962,-0.0180423258338134,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-07`,0.0641583632521283,0.0783798750719002,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-08`,0,0.0283052377292834,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-09`,-0.0196766869229146,-0.015856999164722,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-10`,0.0185950822982679,0.0338386979047,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-11`,0.0586376082662363,0.0452748971477328,0,0
+seller_N_total_value_high,`time_n_sale_str_2022-12`,0.0668068005996444,0.0483031632680845,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-01`,0.068137426782172,0.0487162951572103,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-02`,0.0374741756894645,0.0402966401104237,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-03`,0.0429525430196812,0.0312551215421973,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-04`,0.0786918252414611,0.0315015618136041,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-05`,0.0453318309567633,0.0355505540727672,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-06`,0.0835900026857609,0.00271832061983436,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-07`,0.0524557472059404,0.0114306827589534,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-08`,0.0590174168498757,0.0369777751071103,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-09`,0.0450122208140542,0.043154536649731,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-10`,0.0361936480591813,0.0370776193228653,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-11`,0.127451334731528,0.0781794705069494,0,0
+seller_N_total_value_high,`time_n_sale_str_2023-12`,0.0481203203384234,-0.0640211770235102,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-01`,0.217406577601727,0.026467059206389,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-02`,0.0544747423108709,-0.036573604591887,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-03`,0.112023052393225,0.0141767677223389,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-04`,0.135275747975904,0.0251890739771176,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-05`,0.132083785184645,0.0311521926430374,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-06`,0.110257894267652,0.0710856387431528,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-07`,0.00936700214743346,-0.0114231373347179,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-08`,0.0376998250623371,0.0341710477809985,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-09`,0.040953749694059,0.0357674039364402,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-10`,0.0580878048145655,0.0502562934408594,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-11`,-0.0390226477346404,-0.0679341160140441,0,0
+seller_N_total_value_high,`time_n_sale_str_2024-12`,0.0428294875922399,0.0136939447918823,0,0
+seller_N_total_value_high,`time_n_sale_str_2025-01`,0.0186057031867937,-0.0440287813714007,0,0
+seller_N_total_value_high,`time_n_sale_str_2025-02`,0.0362803528323375,-0.0138231884573356,0,0
+seller_N_total_value_high,`time_n_sale_str_2025-03`,0,-0.0185941881768118,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-06`,-0.233450534136202,-0.0848975401721719,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-07`,-0.190409630798648,-0.0839002226277894,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-08`,-0.0497170234120917,0.0175512692096369,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-09`,-0.0313266537303581,-0.0150773587207532,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-10`,-0.0646570332840907,-0.0379510071228506,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-11`,-0.0680900971757188,-0.0351455616091983,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2021-12`,-0.039732071545355,-0.0149173743346043,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-01`,-0.0154332393117461,0.0163016036365939,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-02`,-0.0390621718028164,-0.0173398098226794,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-03`,-0.0171421820240003,0.00146607614164094,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-04`,-0.0303409916034006,-0.003529438801486,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-05`,0.0231245509954175,0.0497939296061197,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-06`,-0.0109836992771885,-0.0154528375864461,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-07`,0.0164924367907862,0.027828830939903,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-08`,-0.013092341025976,0.00290434483649652,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-09`,0,0.00750202660065733,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-10`,0.0354366606105501,0.0440215028565222,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-11`,0.105349606257125,0.0879127830120972,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2022-12`,0.043076444086599,0.00515813090166803,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-01`,0.0680940419723884,0.0634018426780092,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-02`,0.0601729651605189,0.0439000097444715,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-03`,0.0785858161766219,0.0866536626751502,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-04`,0.0792465219646844,0.0179222228582183,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-05`,0.0109947501306012,-0.00840964249654927,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-06`,0.145230949602779,0.0553095912961075,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-07`,0.0715215952938272,0.0279066663597765,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-08`,0.0706297653320462,0.0397028330830939,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-09`,0.0616627014819492,0.0449004044064167,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-10`,0.0568246034820388,0.0465527859693582,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-11`,0.122545457605632,0.0371724526761016,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2023-12`,0.133963586382497,0.0279268668567578,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-01`,0.242710064920178,0.0459705155945833,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-02`,0.160006061703315,0.0644178982927486,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-03`,0.126983397886886,-0.0125769435092317,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-04`,0.191436463944825,0.0746592666503478,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-05`,0.149456733362466,0.0531920375342316,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-06`,0.107361051204403,0.0641234467464228,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-07`,0.101662953109993,0.0909276275727093,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-08`,0.0728846463297061,0.0618790849016308,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-09`,0.0178463343438954,-0.0212179044428707,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-10`,0.021088174326577,-0.00447485743288974,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-11`,0.00186660224845113,-0.0446122247445851,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2024-12`,0.154421635306707,0.127512405649399,1,0
+seller_N_total_value_high,`time_n-1_sale_str_2025-01`,0.108962979985684,0.024190825298161,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2025-02`,0.066230532298622,0.0178281850892857,0,0
+seller_N_total_value_high,`time_n-1_sale_str_2025-03`,0.0319560680275942,-0.00341965077199572,0,0
+seller_N_total_value_high,`Background_recoded_Army Green`,-0.00155487884438995,-0.00954910164082362,0,0
+seller_N_total_value_high,Background_recoded_Blue,-0.0147651307944835,-0.0233421716496408,0,0
+seller_N_total_value_high,Background_recoded_Gray,-0.00627626125228069,0.00909364355428873,0,0
+seller_N_total_value_high,`Background_recoded_New Punk Blue`,-0.0269611065400445,-0.0406389169641089,0,0
+seller_N_total_value_high,Background_recoded_Orange,0.00994425132305262,0.00520904106059558,0,0
+seller_N_total_value_high,Background_recoded_Purple,0.0250109265605941,0.0410412185949676,0,0
+seller_N_total_value_high,Background_recoded_Yellow,0.00381164352073485,0.00791525840266237,0,0
+seller_N_total_value_high,`Clothes_recoded_Bayc T Black`,-0.0146009600543217,0.0154022231131967,0,0
+seller_N_total_value_high,`Clothes_recoded_Bayc T Red`,-0.0590786532598054,-0.0570960221072621,0,0
+seller_N_total_value_high,`Clothes_recoded_Biker Vest`,0.0786258768961959,0.080839032790568,0,0
+seller_N_total_value_high,`Clothes_recoded_Black Holes T`,-0.0089855512052872,-0.0269287949695782,0,0
+seller_N_total_value_high,`Clothes_recoded_Black T`,-0.0637290531427741,-0.0627753689614494,0,0
+seller_N_total_value_high,`Clothes_recoded_Bone Necklace`,-0.0125798936033162,-0.0334002292722053,0,0
+seller_N_total_value_high,`Clothes_recoded_Bone Tee`,0.0182791161037784,0.00978248370260972,0,0
+seller_N_total_value_high,`Clothes_recoded_Caveman Pelt`,0.0533072588766039,0.0232350530903389,0,0
+seller_N_total_value_high,`Clothes_recoded_Cowboy Shirt`,0.0187346208830498,0.0406490511531966,0,0
+seller_N_total_value_high,Clothes_recoded_Guayabera,0.00488530315304001,0.023195060941271,0,0
+seller_N_total_value_high,Clothes_recoded_Hawaiian,0.00780310343692302,0.00522112107829092,0,0
+seller_N_total_value_high,`Clothes_recoded_Hip Hop`,-0.0185408147431108,0.00439317561931686,0,0
+seller_N_total_value_high,`Clothes_recoded_Lab Coat`,0.00882769302286231,0.00722315303608068,0,0
+seller_N_total_value_high,`Clothes_recoded_Leather Jacket`,-0.0488339067128472,-0.0588154287838237,0,0
+seller_N_total_value_high,`Clothes_recoded_Leather Punk Jacket`,-0.0303409916034006,-0.033637316152198,0,0
+seller_N_total_value_high,`Clothes_recoded_Lumberjack Shirt`,0.00340341378509154,-0.0107320657815586,0,0
+seller_N_total_value_high,`Clothes_recoded_Navy Striped Tee`,-0.055635335952865,-0.0704529603472656,0,0
+seller_N_total_value_high,Clothes_recoded_No_Clothes,0.0336317512436437,0.0469341608148566,0,0
+seller_N_total_value_high,Clothes_recoded_Other_Clothes,0.00519928048840118,0.025768078283633,0,0
+seller_N_total_value_high,`Clothes_recoded_Prison Jumpsuit`,0.0299908894808451,0.032538462083263,0,0
+seller_N_total_value_high,`Clothes_recoded_Prom Dress`,0.0145162109740308,0.0105369671875813,0,0
+seller_N_total_value_high,`Clothes_recoded_Puffy Vest`,0.00168802906259026,-0.00332689760474189,0,0
+seller_N_total_value_high,`Clothes_recoded_Rainbow Suspenders`,-0.0195916110719894,-0.0154154288840578,0,0
+seller_N_total_value_high,`Clothes_recoded_Sailor Shirt`,0.0299588399245981,-0.0042454105509224,0,0
+seller_N_total_value_high,Clothes_recoded_Service,0.00201894177981358,-0.013459303523345,0,0
+seller_N_total_value_high,`Clothes_recoded_Sleeveless Logo T`,-0.0429660473605219,-0.0410471124306739,0,0
+seller_N_total_value_high,`Clothes_recoded_Sleeveless T`,-0.0163252617005093,-0.0215596486140539,0,0
+seller_N_total_value_high,`Clothes_recoded_Smoking Jacket`,-0.0034220347195609,0.00371143946560295,0,0
+seller_N_total_value_high,`Clothes_recoded_Striped Tee`,0.0175681296338604,-0.00657746393720205,0,0
+seller_N_total_value_high,`Clothes_recoded_Stunt Jacket`,0.00396195839663704,0.00223964169485487,0,0
+seller_N_total_value_high,Clothes_recoded_Tanktop,-0.00329792113307708,-0.0183485917202318,0,0
+seller_N_total_value_high,`Clothes_recoded_Tie Dye`,-0.0194167990466045,-0.0171417945427663,0,0
+seller_N_total_value_high,Clothes_recoded_Toga,0.00175495537179566,-0.00787418079662999,0,0
+seller_N_total_value_high,`Clothes_recoded_Tuxedo Tee`,-0.00481445179322203,-0.0114001119607042,0,0
+seller_N_total_value_high,`Clothes_recoded_Tweed Suit`,0,0.0132323903374082,0,0
+seller_N_total_value_high,`Clothes_recoded_Vietnam Jacket`,0.0238255528355817,0.0420235679694812,0,0
+seller_N_total_value_high,`Clothes_recoded_Wool Turtleneck`,0,0.0243510702760205,0,0
+seller_N_total_value_high,`Clothes_recoded_Work Vest`,-0.0146935614982923,0.00716014104923699,0,0
+seller_N_total_value_high,`Earring_recoded_Diamond Stud`,-0.0324507492337765,-0.00773705405609448,0,0
+seller_N_total_value_high,`Earring_recoded_Gold Hoop`,-0.0304852706585352,-0.0286498301638466,0,0
+seller_N_total_value_high,`Earring_recoded_Gold Stud`,-0.0248883986200665,-0.0259273882717738,0,0
+seller_N_total_value_high,Earring_recoded_No_Earring,0.00558762918001609,-0.0237057621583885,0,0
+seller_N_total_value_high,`Earring_recoded_Silver Hoop`,0.00271838541870202,-0.0122426563564098,0,0
+seller_N_total_value_high,`Earring_recoded_Silver Stud`,0.0459685952488975,0.0822732270668624,0,0
+seller_N_total_value_high,Eyes_recoded_Angry,-0.00746599341339849,-0.0127565012818216,0,0
+seller_N_total_value_high,Eyes_recoded_Blindfold,0.0232020030140765,-0.0233258571859853,0,0
+seller_N_total_value_high,Eyes_recoded_Bloodshot,0.0358765837954832,0.0162331120522214,0,0
+seller_N_total_value_high,Eyes_recoded_Bored,0.018877864942386,0.0343110630901319,0,0
+seller_N_total_value_high,Eyes_recoded_Closed,0.0164627148602113,-0.0151619681539122,0,0
+seller_N_total_value_high,Eyes_recoded_Coins,-0.0152580541086963,-0.0321526565207463,0,0
+seller_N_total_value_high,Eyes_recoded_Crazy,0.0533279272008346,0.0159660280394732,0,0
+seller_N_total_value_high,Eyes_recoded_Eyepatch,-0.00141548293113228,-0.0152294676035315,0,0
+seller_N_total_value_high,Eyes_recoded_Heart,-0.0421213092962568,0.0035386940907213,0,0
+seller_N_total_value_high,Eyes_recoded_Holographic,-0.0303409916034005,-0.00116986520282998,0,0
+seller_N_total_value_high,Eyes_recoded_Hypnotized,0.00877485795623167,0.0420102201411846,0,0
+seller_N_total_value_high,Eyes_recoded_Other_Eyes,0.00374555726485871,0.0349373463621559,0,0
+seller_N_total_value_high,Eyes_recoded_Robot,-0.0353926062825542,-0.0211864282269301,0,0
+seller_N_total_value_high,Eyes_recoded_Sad,0.00649359220535298,-0.00358024734704697,0,0
+seller_N_total_value_high,Eyes_recoded_Scumbag,-0.0105604801779309,0.0177326553665541,0,0
+seller_N_total_value_high,Eyes_recoded_Sleepy,-0.0116114555727062,-0.00452813555849222,0,0
+seller_N_total_value_high,Eyes_recoded_Sunglasses,-0.0769918319548738,-0.0727951104105668,0,0
+seller_N_total_value_high,`Eyes_recoded_Wide Eyed`,-0.00889694403116463,0.00435409356771358,0,0
+seller_N_total_value_high,`Eyes_recoded_X Eyes`,0.0397490310925474,0.0331683649777898,0,0
+seller_N_total_value_high,Eyes_recoded_Zombie,0,0.00294865333709186,0,0
+seller_N_total_value_high,Fur_recoded_Blue,-0.00472354562539734,0.00718146437830343,0,0
+seller_N_total_value_high,Fur_recoded_Brown,0.00221574467634711,-0.0272127499853531,0,0
+seller_N_total_value_high,Fur_recoded_Cheetah,-0.0200910269327386,0.00140870854124216,0,0
+seller_N_total_value_high,Fur_recoded_Cream,0.0163868825925656,-0.00716581957918928,0,0
+seller_N_total_value_high,`Fur_recoded_Dark Brown`,0.00519845662758342,0.00449747012222398,0,0
+seller_N_total_value_high,`Fur_recoded_Death Bot`,-0.037686100549715,-0.0283504325994159,0,0
+seller_N_total_value_high,Fur_recoded_Dmt,0.0367391108169669,0.0141072935437799,0,0
+seller_N_total_value_high,`Fur_recoded_Golden Brown`,-0.0130687836420483,-0.0235866098232343,0,0
+seller_N_total_value_high,Fur_recoded_Gray,-0.0176486894723786,-0.0175280534021077,0,0
+seller_N_total_value_high,Fur_recoded_Noise,0.0320804291308374,0.05654191770543,0,0
+seller_N_total_value_high,Fur_recoded_Other_Fur,0.0526620335921739,0.0879734658942508,0,0
+seller_N_total_value_high,Fur_recoded_Pink,0.00682200604996761,0.00421336113227623,0,0
+seller_N_total_value_high,Fur_recoded_Red,0.0373130632600939,0.0552918445684955,0,0
+seller_N_total_value_high,Fur_recoded_Robot,-0.0149554339097364,0.00811551409314896,0,0
+seller_N_total_value_high,Fur_recoded_Tan,-0.0427332179927777,-0.0472325653173234,0,0
+seller_N_total_value_high,Fur_recoded_White,-0.00260760661154025,-0.00202057740565525,0,0
+seller_N_total_value_high,Fur_recoded_Zombie,-0.0167205166147951,-0.012764947846642,0,0
+seller_N_total_value_high,`Hat_recoded_Baby's Bonnet`,-0.0475568498152521,-0.0507957353492367,0,0
+seller_N_total_value_high,`Hat_recoded_Bayc Flipped Brim`,-0.0146935614982922,0.0177326553665541,0,0
+seller_N_total_value_high,`Hat_recoded_Bayc Hat Black`,0.0301892741209894,0.0841315288353199,0,0
+seller_N_total_value_high,`Hat_recoded_Bayc Hat Red`,-0.0100212682480294,0.0122150791885203,0,0
+seller_N_total_value_high,Hat_recoded_Beanie,-0.0144111967581171,-0.0250072907781246,0,0
+seller_N_total_value_high,Hat_recoded_Bowler,0.0141097702275891,0.0100569468388662,0,0
+seller_N_total_value_high,`Hat_recoded_Bunny Ears`,0.00379623734993716,-0.0154528375864461,0,0
+seller_N_total_value_high,`Hat_recoded_Commie Hat`,-0.00431028303129373,-0.0131104964116847,0,0
+seller_N_total_value_high,`Hat_recoded_Cowboy Hat`,0.0359619900273521,0.0198157265585902,0,0
+seller_N_total_value_high,`Hat_recoded_Faux Hawk`,0.0137644949377283,0.0345007565428311,0,0
+seller_N_total_value_high,Hat_recoded_Fez,0.016924059475659,-0.0141121433353565,0,0
+seller_N_total_value_high,`Hat_recoded_Fisherman's Hat`,-0.00139023272250152,-0.0155747897823075,0,0
+seller_N_total_value_high,`Hat_recoded_Girl's Hair Pink`,0.0100212682480293,0.00652017133866143,0,0
+seller_N_total_value_high,`Hat_recoded_Girl's Hair Short`,0.0264542568581349,0.0229661930280241,0,0
+seller_N_total_value_high,Hat_recoded_Halo,-0.00144223592291599,0.00537640200679417,0,0
+seller_N_total_value_high,Hat_recoded_Horns,0.0668028533329899,0.0587404677499835,0,0
+seller_N_total_value_high,`Hat_recoded_Irish Boho`,-0.0283981797499692,-0.0500455341086449,0,0
+seller_N_total_value_high,Hat_recoded_No_Hat,-0.0347113218977518,-0.0225612531722779,0,0
+seller_N_total_value_high,Hat_recoded_Other_Hat,0.0266534919614878,0.0671141807337098,0,0
+seller_N_total_value_high,`Hat_recoded_Party Hat 1`,0.0046350169222247,-0.000914708008710928,0,0
+seller_N_total_value_high,`Hat_recoded_Party Hat 2`,-0.00243301420011171,-0.000467615668075435,0,0
+seller_N_total_value_high,`Hat_recoded_Police Motorcycle Helmet`,-0.00437331905987804,-0.0216743446125375,0,0
+seller_N_total_value_high,`Hat_recoded_Prussian Helmet`,-0.00908515350825675,-0.0182078210192364,0,0
+seller_N_total_value_high,`Hat_recoded_S&m Hat`,-0.0113991918717386,-0.0258428655472287,0,0
+seller_N_total_value_high,Hat_recoded_Safari,-0.0184852818199511,-0.0138837558779793,0,0
+seller_N_total_value_high,`Hat_recoded_Sea Captain's Hat`,-0.0345255244760349,0.00352153857216413,0,0
+seller_N_total_value_high,`Hat_recoded_Seaman's Hat`,0.024082855480816,0.00284612719897723,0,0
+seller_N_total_value_high,`Hat_recoded_Short Mohawk`,0.0113033188513175,-0.00324112060317548,0,0
+seller_N_total_value_high,`Hat_recoded_Spinner Hat`,-0.0321627431833786,-0.0280049987497965,0,0
+seller_N_total_value_high,`Hat_recoded_Stuntman Helmet`,-0.0222097179095589,-0.0114047738918711,0,0
+seller_N_total_value_high,`Hat_recoded_Sushi Chef Headband`,0.0229357595154721,0.0216795539210001,0,0
+seller_N_total_value_high,`Hat_recoded_Vietnam Era Helmet`,0.0272297948716183,0.0221431003648583,0,0
+seller_N_total_value_high,`Hat_recoded_Ww2 Pilot Helm`,0.0097879547591263,-0.0189483913544989,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Bubblegum`,-0.0216537366596327,-0.0108953731930359,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Cigar`,-0.0191415228593624,-0.0224055757618583,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Cigarette`,-0.0493324926586151,-0.0438001047382197,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Pipe`,-0.0229417910697698,-0.0169167333964447,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Unshaven`,0.00913030571384695,0.00133179992900241,0,0
+seller_N_total_value_high,`Mouth_recoded_Bored Unshaven Cigarette`,0.00250257882848281,-0.0141920533710895,0,0
+seller_N_total_value_high,Mouth_recoded_Discomfort,-0.0233637917241123,-0.0234730051149711,0,0
+seller_N_total_value_high,Mouth_recoded_Dumbfounded,0.0134624746844683,-0.0178853487523822,0,0
+seller_N_total_value_high,Mouth_recoded_Grin,0.0149059389272623,0.0152443758567208,0,0
+seller_N_total_value_high,`Mouth_recoded_Grin Multicolored`,0.0373611394766302,0.0588225341947164,0,0
+seller_N_total_value_high,Mouth_recoded_Jovial,-0.00898673429635338,-0.0030102303171097,0,0
+seller_N_total_value_high,Mouth_recoded_Other_Mouth,-0.0210919625683045,0.0278068208925289,0,0
+seller_N_total_value_high,`Mouth_recoded_Phoneme  ooo`,-0.0350601152271674,-0.0566689444987277,0,0
+seller_N_total_value_high,`Mouth_recoded_Phoneme L`,0.0213834693912586,-0.000433392458368461,0,0
+seller_N_total_value_high,`Mouth_recoded_Phoneme Oh`,0.0210668563528724,0.00785976331696088,0,0
+seller_N_total_value_high,`Mouth_recoded_Phoneme Vuh`,0.0247227087177105,0.00167564970492854,0,0
+seller_N_total_value_high,`Mouth_recoded_Phoneme Wah`,0.0162149762780977,0.00575222418659133,0,0
+seller_N_total_value_high,Mouth_recoded_Rage,-0.0030865596205158,-0.0167287062226791,0,0
+seller_N_total_value_high,`Mouth_recoded_Small Grin`,0.0345738424200736,0.0200668870843286,0,0
+seller_N_total_value_high,`Mouth_recoded_Tongue Out`,-0.00377063518746136,-0.0171363909017979,0,0
+seller_N_total_value_high,`log_price_change_n-1`,-0.0949220298944012,0.00638544931147635,0,0
+seller_N_1_total_value_high,log_price_1_sale,0.175723510442583,0.192628269110254,1,0
+seller_N_1_total_value_high,sold_after_30d,-0.178643906072215,0.000377789346168024,0,0
+seller_N_1_total_value_high,buyern_act_period,-0.268311723309763,-0.0759779235912635,0,0
+seller_N_1_total_value_high,log_buyern_total_value,0.220620822886136,0.0963350047100537,0,0
+seller_N_1_total_value_high,log_buyern_rolling_avg_value_last10,0.0195095209355622,0.0281243777161947,0,0
+seller_N_1_total_value_high,sellern_act_period,-0.33384042834549,-0.0956854933325679,0,0
+seller_N_1_total_value_high,log_sellern_total_value,0.225064101360479,0.100188941193589,1,0
+seller_N_1_total_value_high,log_sellern_rolling_avg_value_last10,0.107541213591362,0.0428748381653768,0,0
+seller_N_1_total_value_high,buyern_1_act_period,-0.358027941621723,-0.0927486463413855,0,0
+seller_N_1_total_value_high,log_buyern_1_total_value,0.313115674879386,0.127573137983797,1,0
+seller_N_1_total_value_high,log_buyern_1_rolling_avg_value_last10,0.0193876978648387,0.0456215718110464,0,0
+seller_N_1_total_value_high,sellern_1_act_period,-0.198240611558543,0.135164993802707,1,0
+seller_N_1_total_value_high,log_sellern_1_rolling_avg_value_last10,0.371569367992685,0.233357933042345,1,0
+seller_N_1_total_value_high,log_unique_makers_count,0.138484903429376,-0.0860697927608331,0,0
+seller_N_1_total_value_high,log_median_offer_price,-0.0460308079565836,-0.0824063309368409,0,0
+seller_N_1_total_value_high,log_buyern_avg_total_gaspaid,0.15470693795162,0.0428065125485628,0,0
+seller_N_1_total_value_high,log_buyern_1_avg_total_gaspaid,0.177705559964196,0.0536190930911794,0,0
+seller_N_1_total_value_high,log_sellern_avg_total_gaspaid,0.273091274345152,0.0100691111539195,0,0
+seller_N_1_total_value_high,log_sellern_1_avg_total_gaspaid,1.50379806076934,1.17562546408474,1,1
+seller_N_1_total_value_high,log_buyern_avg_gasLimit_cost,-0.154839871397233,-0.0271993324264932,0,0
+seller_N_1_total_value_high,log_buyern_1_avg_gasLimit_cost,-0.151453512176593,0.0357832613646774,0,0
+seller_N_1_total_value_high,log_sellern_avg_gasLimit_cost,0.144580428371084,-0.0152448262921503,0,0
+seller_N_1_total_value_high,log_sellern_1_avg_gasLimit_cost,0.808582694192596,0.549470689073902,1,1
+seller_N_1_total_value_high,`time_n_sale_str_2021-06`,-0.136983088424862,-0.0715738617267371,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-07`,-0.123553108207687,-0.0768238171562126,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-08`,-0.0988284530920169,-0.037640421009615,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-09`,-0.0803679650225818,-0.0441555238490267,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-10`,-0.0160898725978045,0.0220597332101486,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-11`,-0.084655097031147,-0.0390089865946371,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2021-12`,-0.0804500275712109,-0.0400066677448618,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-01`,-0.105611479208294,-0.056265817690468,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-02`,-0.0668946927578979,-0.0325587434369539,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-03`,-0.0510576049737757,-0.00342119781195425,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-04`,-0.11667203163916,-0.0808931027594604,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-05`,-0.0215124109729207,0.0290522509090097,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-06`,-0.0776934377958475,-0.041777336213385,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-07`,-0.0106877140496052,0.0179159679609413,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-08`,-0.0382883082040571,-0.00855836109809595,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-09`,-0.0140544431403171,0.00939941546644153,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-10`,-0.003718862115866,0.0170303395794002,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-11`,-0.0334975076510976,-0.00367210702531525,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2022-12`,0.0719522003473266,0.098554409432406,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-01`,0.0329550748390665,0.0614079680375244,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-02`,0.0562236048422232,0.0857777027453816,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-03`,0.0655792617187692,0.1037828199785,1,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-04`,0.024933708539465,0.0657983257066745,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-05`,0,0.0244178749158426,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-06`,0.0950128241087027,0.0441521013605552,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-07`,0.116308295749568,0.104146088447674,1,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-08`,0.0866023027261796,0.0974858894249416,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-09`,0.0330050974780582,0.0449302733345354,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-10`,0.0819672968137262,0.0732733232857673,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-11`,0.103102740624358,0.0331690433606728,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2023-12`,0.109496489445086,0.015821578625726,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-01`,0.220320856984398,0.0503024946619348,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-02`,0.105652823067189,0.047206073848349,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-03`,0.0848839614512237,0.00395659503458686,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-04`,0.146726323618487,0.0131539965698993,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-05`,0.0892452702453198,-0.00189474814490635,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-06`,0.0721753434761098,0.0146106951241329,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-07`,-0.00468346253933314,-0.0445867655506195,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-08`,0.00221724415143576,-0.0156560426488209,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-09`,0.00584933419490581,-0.0157773185152138,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-10`,-0.0145162109740308,-0.0539655435650735,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-11`,0.0171673294363759,0.019195189134613,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2024-12`,0.010335919953129,-0.00603045363276777,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2025-01`,-0.0223272690358866,-0.0575857807371293,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2025-02`,0.0072549244375391,0.00980276530888961,0,0
+seller_N_1_total_value_high,`time_n_sale_str_2025-03`,-0.0184908126688591,-0.0102671256488281,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-06`,-0.204987744411449,-0.119854954033053,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-07`,-0.104684110988761,-0.0422778349411612,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-08`,-0.07737154826994,0.00886757693136473,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-09`,-0.0608312283975267,-0.0229705332682559,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-10`,-0.068833247176286,-0.0371496725041881,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-11`,-0.0680900971757188,-0.028398517950169,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2021-12`,-0.0441487902538359,-0.0120985328029397,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-01`,-0.0803151521307867,-0.0354459930023912,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-02`,-0.055814186542838,-0.0328384359351825,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-03`,-0.055254971288638,-0.0183209990194623,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-04`,-0.0390127789773913,-0.00578160354435554,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-05`,-0.0189196690102361,0.0172402137154854,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-06`,-0.0373505274903798,-0.00447714151962012,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-07`,0.038488170433618,0.0691630320496931,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-08`,-0.0288055209762333,-0.00111908732171381,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-09`,0,0.0189680242206282,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-10`,0.00393679629804147,0.0195346898191853,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-11`,0.0380593001421234,0.0684366219987012,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2022-12`,0.0814151357635589,0.106702810202292,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-01`,0.0781964768700588,0.105797827352076,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-02`,0.122928923081172,0.157579482804161,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-03`,0.0833566315273844,0.117919990861613,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-04`,0.0637661554459184,0.104429068385158,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-05`,0.0439889746682098,0.0693223441651741,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-06`,0.192081286559343,0.0986706479410854,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-07`,0.127067821814121,0.0847936785190437,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-08`,0.103942705054687,0.112733325665126,1,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-09`,0.0863672082814798,0.0957205347979365,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-10`,0.0852799539262605,0.0744636760176942,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-11`,0.168782492822927,0.0927922397306965,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2023-12`,0.120515858942806,-0.00345981709214081,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-01`,0.202085920057078,-0.00964851599867863,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-02`,0.0949972239933262,-0.0332288175396666,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-03`,0.106247636078019,-0.0343055038867064,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-04`,0.172302260709627,0.0106372641172548,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-05`,0.102333311108411,-0.0147474223603414,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-06`,0.094700120475757,0.0354306466761166,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-07`,-0.0267212887805857,-0.0704117427512304,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-08`,-0.0260151601289111,-0.0614438896624053,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-09`,0.0356969334694864,0.0115410278200375,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-10`,0.0158157460104873,-0.0343201492657772,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-11`,-0.031736220204378,-0.0334258530782819,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2024-12`,0.0192463005479721,0.0055385277593944,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2025-01`,-0.00265369951556108,-0.0466830822091519,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2025-02`,-0.034243418425164,-0.0233722118987523,0,0
+seller_N_1_total_value_high,`time_n-1_sale_str_2025-03`,-0.0319560680275938,-0.0280082143229147,0,0
+seller_N_1_total_value_high,`Background_recoded_Army Green`,0.0404351012161418,0.041851756369042,0,0
+seller_N_1_total_value_high,Background_recoded_Blue,-0.0334195773795654,-0.0561007523198999,0,0
+seller_N_1_total_value_high,Background_recoded_Gray,-0.0282458537470581,-0.0114213616032769,0,0
+seller_N_1_total_value_high,`Background_recoded_New Punk Blue`,-0.0500817747479941,-0.0548285012989458,0,0
+seller_N_1_total_value_high,Background_recoded_Orange,-0.0298357052640515,-0.019845855235853,0,0
+seller_N_1_total_value_high,Background_recoded_Purple,0.00378924477305875,-0.0146043186593323,0,0
+seller_N_1_total_value_high,Background_recoded_Yellow,0.0770521929620438,0.0751554076241856,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Bayc T Black`,0.00365014879991841,0.00743244189510094,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Bayc T Red`,-0.0636276013353819,-0.0570987316838459,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Biker Vest`,0.015713519760858,-0.00859791110844497,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Black Holes T`,-0.0125798936033164,-0.0148250299773387,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Black T`,-0.0438905274680028,-0.0268513127904549,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Bone Necklace`,0.00898555120528716,-0.0140930793087801,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Bone Tee`,0.044876342677128,0.0186398822731465,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Caveman Pelt`,0.00592095139512637,-0.0306308880340291,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Cowboy Shirt`,-0.00468346253933313,-0.00657768392948438,0,0
+seller_N_1_total_value_high,Clothes_recoded_Guayabera,0.00488530315304001,-0.00430344196587675,0,0
+seller_N_1_total_value_high,Clothes_recoded_Hawaiian,0.00468183925081443,0.0208155003047006,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Hip Hop`,0.0278127164338232,0.0610361720840797,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Lab Coat`,0.0220703615597803,0.0313261892730807,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Leather Jacket`,-0.0198903496241004,-0.0240456683775346,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Leather Punk Jacket`,-0.0260057701034145,-0.0225558480847828,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Lumberjack Shirt`,0,-0.00157596763056017,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Navy Striped Tee`,0.0242437016720244,0.0209259333469326,0,0
+seller_N_1_total_value_high,Clothes_recoded_No_Clothes,-0.0336317512436437,-0.0219053663520197,0,0
+seller_N_1_total_value_high,Clothes_recoded_Other_Clothes,0.0285988701910529,0.0648468003523555,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Prison Jumpsuit`,0.00666392972599499,-0.0118567247847973,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Prom Dress`,-0.00483862367529345,-0.0229616772141075,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Puffy Vest`,0.0118164055123111,0.0173705605534584,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Rainbow Suspenders`,-0.0239458699289269,-0.0296511830363018,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Sailor Shirt`,0.0329555005627841,0.0148630228406129,0,0
+seller_N_1_total_value_high,Clothes_recoded_Service,0.0100948323746969,0.00573350995991003,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Sleeveless Logo T`,0.0214793056290476,0.037631740843348,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Sleeveless T`,-0.00979494812992828,-0.0152489993244944,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Smoking Jacket`,-0.017110774879551,-0.0294632025284178,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Striped Tee`,0.0250983361387081,0.0224345289045327,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Stunt Jacket`,0.0237733834860183,0.0283730272082267,0,0
+seller_N_1_total_value_high,Clothes_recoded_Tanktop,-0.0164901438657062,-0.0313163211763486,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Tie Dye`,0.00215732168115013,0.0157048812159528,0,0
+seller_N_1_total_value_high,Clothes_recoded_Toga,-0.0122849146780267,-0.0193295634392783,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Tuxedo Tee`,-0.0176536266037365,-0.0137509524007684,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Tweed Suit`,-0.00882769302286224,-0.00106562581227788,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Vietnam Jacket`,0.0272297948716183,0.0363755345635463,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Wool Turtleneck`,0.00336709466201289,0.0100829319181029,0,0
+seller_N_1_total_value_high,`Clothes_recoded_Work Vest`,0.0146935614982923,0.0100741000033145,0,0
+seller_N_1_total_value_high,`Earring_recoded_Diamond Stud`,-0.0468800108035737,-0.03270195291178,0,0
+seller_N_1_total_value_high,`Earring_recoded_Gold Hoop`,-0.0304852706585354,-0.0231905420045507,0,0
+seller_N_1_total_value_high,`Earring_recoded_Gold Stud`,-0.037336212660016,-0.0172528895195658,0,0
+seller_N_1_total_value_high,Earring_recoded_No_Earring,0.0592546338111798,0.0320282977589943,0,0
+seller_N_1_total_value_high,`Earring_recoded_Silver Hoop`,-0.000906127728718211,-0.0081582892099314,0,0
+seller_N_1_total_value_high,`Earring_recoded_Silver Stud`,-0.00735308248686837,0.00548159252360494,0,0
+seller_N_1_total_value_high,Eyes_recoded_Angry,0.0273776837629913,0.0279442938915874,0,0
+seller_N_1_total_value_high,Eyes_recoded_Blindfold,0.0541542096915232,0.0454510378188914,0,0
+seller_N_1_total_value_high,Eyes_recoded_Bloodshot,-0.0340362115979181,-0.0507727428745328,0,0
+seller_N_1_total_value_high,Eyes_recoded_Bored,-0.0310159833623016,-0.00844742321774771,0,0
+seller_N_1_total_value_high,Eyes_recoded_Closed,0.0435866476837363,-0.00380116840206927,0,0
+seller_N_1_total_value_high,Eyes_recoded_Coins,-0.00352099237851583,-0.0246009332386515,0,0
+seller_N_1_total_value_high,Eyes_recoded_Crazy,0.0406247423911824,-0.00368900005635014,0,0
+seller_N_1_total_value_high,Eyes_recoded_Eyepatch,0.0127396016974119,0.0231577036154932,0,0
+seller_N_1_total_value_high,Eyes_recoded_Heart,-0.0342209840403652,-0.00313977961445048,0,0
+seller_N_1_total_value_high,Eyes_recoded_Holographic,-0.017336365673306,-0.00670631529604854,0,0
+seller_N_1_total_value_high,Eyes_recoded_Hypnotized,-0.0122849146780268,-0.0097371046556451,0,0
+seller_N_1_total_value_high,Eyes_recoded_Other_Eyes,-0.00749115395044618,0.0277182008914164,0,0
+seller_N_1_total_value_high,Eyes_recoded_Robot,-0.0127396016974119,0.00861765896563656,0,0
+seller_N_1_total_value_high,Eyes_recoded_Sad,0.00865815844408922,-0.00107671902936405,0,0
+seller_N_1_total_value_high,Eyes_recoded_Scumbag,-0.0246426476516408,0.00124186398624532,0,0
+seller_N_1_total_value_high,Eyes_recoded_Sleepy,0.0154821437577248,-0.00145988900665154,0,0
+seller_N_1_total_value_high,Eyes_recoded_Sunglasses,-0.0384745351777676,-0.0114690288944001,0,0
+seller_N_1_total_value_high,`Eyes_recoded_Wide Eyed`,0.00222421537070088,0.0200262283154599,0,0
+seller_N_1_total_value_high,`Eyes_recoded_X Eyes`,0.0206665176888934,-0.0110028678175472,0,0
+seller_N_1_total_value_high,Eyes_recoded_Zombie,0.014855653018984,0.0313717471973911,0,0
+seller_N_1_total_value_high,Fur_recoded_Blue,-0.00944717031532436,-0.000660177969462286,0,0
+seller_N_1_total_value_high,Fur_recoded_Brown,-0.0110788866007059,-0.0286817236436312,0,0
+seller_N_1_total_value_high,Fur_recoded_Cheetah,-0.049570588224309,-0.0151668532811059,0,0
+seller_N_1_total_value_high,Fur_recoded_Cream,0.0245813555528737,0.00755245227632652,0,0
+seller_N_1_total_value_high,`Fur_recoded_Dark Brown`,0.0185666539865745,0.00236025131882606,0,0
+seller_N_1_total_value_high,`Fur_recoded_Death Bot`,-0.0125600511331101,0.0167368772971043,0,0
+seller_N_1_total_value_high,Fur_recoded_Dmt,0.0146935614982921,0.0399179407990175,0,0
+seller_N_1_total_value_high,`Fur_recoded_Golden Brown`,-0.00186693003824992,-0.0137018175679683,0,0
+seller_N_1_total_value_high,Fur_recoded_Gray,-0.0105889497629912,-0.0108405616775378,0,0
+seller_N_1_total_value_high,Fur_recoded_Noise,-0.0149693602772212,0.0130988419923354,0,0
+seller_N_1_total_value_high,Fur_recoded_Other_Fur,0.011698818530901,0.0392614975779716,0,0
+seller_N_1_total_value_high,Fur_recoded_Pink,-0.00227399025469303,-0.0203205363722043,0,0
+seller_N_1_total_value_high,Fur_recoded_Red,0.0204595121013291,0.0279615857038091,0,0
+seller_N_1_total_value_high,Fur_recoded_Robot,-0.024926962482501,0.00481642216512597,0,0
+seller_N_1_total_value_high,Fur_recoded_Tan,-0.0197996490048233,-0.0432318771703639,0,0
+seller_N_1_total_value_high,Fur_recoded_White,0,-0.00232516814614096,0,0
+seller_N_1_total_value_high,Fur_recoded_Zombie,0.0106401074409888,0.0145924646177348,0,0
+seller_N_1_total_value_high,`Hat_recoded_Baby's Bonnet`,0.0237733834860181,0.0182904184224021,0,0
+seller_N_1_total_value_high,`Hat_recoded_Bayc Flipped Brim`,-0.00367329741445398,0.0328708675028375,0,0
+seller_N_1_total_value_high,`Hat_recoded_Bayc Hat Black`,-0.0195329423257303,0.0130126787238318,0,0
+seller_N_1_total_value_high,`Hat_recoded_Bayc Hat Red`,-0.00501058693794095,0.0230859107489438,0,0
+seller_N_1_total_value_high,Hat_recoded_Beanie,-0.0166284470305845,-0.0173159484504625,0,0
+seller_N_1_total_value_high,Hat_recoded_Bowler,-0.0203813304016065,-0.0384849718355265,0,0
+seller_N_1_total_value_high,`Hat_recoded_Bunny Ears`,-0.00379623734993716,-0.0125812612131655,0,0
+seller_N_1_total_value_high,`Hat_recoded_Commie Hat`,0.0100574309068801,0.031079681691351,0,0
+seller_N_1_total_value_high,`Hat_recoded_Cowboy Hat`,0.00276586236933876,-0.0170570927558112,0,0
+seller_N_1_total_value_high,`Hat_recoded_Faux Hawk`,-0.0413013125498315,-0.0286194719946096,0,0
+seller_N_1_total_value_high,Hat_recoded_Fez,0.0559995208279938,0.0346026310136339,0,0
+seller_N_1_total_value_high,`Hat_recoded_Fisherman's Hat`,-0.018073759166401,-0.0311101868279328,0,0
+seller_N_1_total_value_high,`Hat_recoded_Girl's Hair Pink`,0.0100212682480293,-0.0228873439298442,0,0
+seller_N_1_total_value_high,`Hat_recoded_Girl's Hair Short`,-0.00610432283878022,-0.0113075747628607,0,0
+seller_N_1_total_value_high,Hat_recoded_Halo,-0.0100957774912959,-0.00529988579571849,0,0
+seller_N_1_total_value_high,Hat_recoded_Horns,0.0439782282310501,0.0311013446580553,0,0
+seller_N_1_total_value_high,`Hat_recoded_Irish Boho`,0.0150332395080798,0.00239588444933179,0,0
+seller_N_1_total_value_high,Hat_recoded_No_Hat,-0.0322747812062917,-0.0181141861786936,0,0
+seller_N_1_total_value_high,Hat_recoded_Other_Hat,0.00783862634133464,0.0412383096599225,0,0
+seller_N_1_total_value_high,`Hat_recoded_Party Hat 1`,-0.03244930251553,-0.0286430547413244,0,0
+seller_N_1_total_value_high,`Hat_recoded_Party Hat 2`,0.0170317044866346,0.0220901552343836,0,0
+seller_N_1_total_value_high,`Hat_recoded_Police Motorcycle Helmet`,0,-0.0330777170428019,0,0
+seller_N_1_total_value_high,`Hat_recoded_Prussian Helmet`,0.0318017297207511,0.0349467895425446,0,0
+seller_N_1_total_value_high,`Hat_recoded_S&m Hat`,0.0439782282310504,0.0115641520551935,0,0
+seller_N_1_total_value_high,Hat_recoded_Safari,-0.00369690473809216,-0.0122636659732548,0,0
+seller_N_1_total_value_high,`Hat_recoded_Sea Captain's Hat`,-0.0255171405793769,-0.00197347143949533,0,0
+seller_N_1_total_value_high,`Hat_recoded_Seaman's Hat`,0.0215475064199283,0.0167921498418496,0,0
+seller_N_1_total_value_high,`Hat_recoded_Short Mohawk`,-0.0113033188513175,-0.011831641103578,0,0
+seller_N_1_total_value_high,`Hat_recoded_Spinner Hat`,0.0170257498123444,0.0268087390894499,0,0
+seller_N_1_total_value_high,`Hat_recoded_Stuntman Helmet`,0.042407288024267,0.0481151316881005,0,0
+seller_N_1_total_value_high,`Hat_recoded_Sushi Chef Headband`,-0.0344064681553971,-0.0388533631084084,0,0
+seller_N_1_total_value_high,`Hat_recoded_Vietnam Era Helmet`,-0.023825552835582,-0.0518877078595048,0,0
+seller_N_1_total_value_high,`Hat_recoded_Ww2 Pilot Helm`,0.0244714258913276,0.0210574467538654,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Bubblegum`,-0.00240583144226083,0.00980499391543033,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Cigar`,0,0.000484772159517064,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Cigarette`,0.00789085953580435,0.00250027185435615,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Pipe`,-0.101066065152723,-0.0984916524627907,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Unshaven`,-0.03160852275273,-0.028791398817886,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Bored Unshaven Cigarette`,-0.0125131293099858,-0.0281492113926165,0,0
+seller_N_1_total_value_high,Mouth_recoded_Discomfort,0.0233637917241124,0.000844733858668937,0,0
+seller_N_1_total_value_high,Mouth_recoded_Dumbfounded,0.0403947476548828,0.0265887336603066,0,0
+seller_N_1_total_value_high,Mouth_recoded_Grin,0.0129183910830019,0.0121140061608021,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Grin Multicolored`,0.0174328186852517,0.0473946320406484,0,0
+seller_N_1_total_value_high,Mouth_recoded_Jovial,0.014978159377494,0.0134845460988055,0,0
+seller_N_1_total_value_high,Mouth_recoded_Other_Mouth,-0.028763142286185,0.0281389941354057,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Phoneme  ooo`,0.0159344731393136,-0.0149027013669032,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Phoneme L`,0.0115137084376511,-0.00212519109635423,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Phoneme Oh`,-0.00162043802706891,-0.0136375515752722,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Phoneme Vuh`,0.0164811061029324,-0.00335263935457605,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Phoneme Wah`,0.00810728825193039,0.000322655411778733,0,0
+seller_N_1_total_value_high,Mouth_recoded_Rage,0.00617314130066178,-0.00465548666324267,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Small Grin`,0.0314299505918247,0.0207927495832346,0,0
+seller_N_1_total_value_high,`Mouth_recoded_Tongue Out`,0.0113120664359548,0.00342867669290305,0,0
+seller_N_1_total_value_high,`log_price_change_n-1`,-0.296963706447449,-0.201562337940036,1,0
+buyer_N_total_value_high,log_price_1_sale,0.109387803817839,0.10840735262472,1,0
+buyer_N_total_value_high,sold_after_30d,0.066826756527465,0.195457995396216,1,0
+buyer_N_total_value_high,buyern_act_period,-0.0287737136620018,0.102787122456919,1,0
+buyer_N_total_value_high,log_buyern_rolling_avg_value_last10,0.0929261159356306,0.156637820651926,1,0
+buyer_N_total_value_high,sellern_act_period,-0.331817243791006,-0.182660825717791,1,0
+buyer_N_total_value_high,log_sellern_total_value,0.205041867595647,0.113989092158439,1,0
+buyer_N_total_value_high,log_sellern_rolling_avg_value_last10,0.128913084310816,0.0825052868299431,0,0
+buyer_N_total_value_high,buyern_1_act_period,-0.266240594107213,-0.1120967329553,1,0
+buyer_N_total_value_high,log_buyern_1_total_value,0.2970439527427,0.181675708258615,1,0
+buyer_N_total_value_high,log_buyern_1_rolling_avg_value_last10,0.00326751744027302,0.0209542697913289,0,0
+buyer_N_total_value_high,sellern_1_act_period,-0.264861167336247,-0.113216017042196,1,0
+buyer_N_total_value_high,log_sellern_1_total_value,0.185838487465975,0.122628115215432,1,0
+buyer_N_total_value_high,log_sellern_1_rolling_avg_value_last10,0.131073939975601,0.0640173535195557,0,0
+buyer_N_total_value_high,log_unique_makers_count,0.0997291787044653,0.000279466518352638,0,0
+buyer_N_total_value_high,log_median_offer_price,-0.0397338154764192,-0.0410751410484296,0,0
+buyer_N_total_value_high,log_buyern_avg_total_gaspaid,1.58916110478803,1.44020550845068,1,1
+buyer_N_total_value_high,log_buyern_1_avg_total_gaspaid,0.180904458374662,0.078870173410932,0,0
+buyer_N_total_value_high,log_sellern_avg_total_gaspaid,0.303014709110837,0.0419775480905223,0,0
+buyer_N_total_value_high,log_sellern_1_avg_total_gaspaid,0.187414687896978,0.050633878321665,0,0
+buyer_N_total_value_high,log_buyern_avg_gasLimit_cost,0.373070655986129,0.456403584275153,1,1
+buyer_N_total_value_high,log_buyern_1_avg_gasLimit_cost,-0.0913459557266398,0.0086290781020398,0,0
+buyer_N_total_value_high,log_sellern_avg_gasLimit_cost,0.216736590613127,0.0153023588731628,0,0
+buyer_N_total_value_high,log_sellern_1_avg_gasLimit_cost,0.111897190613478,0.030701500480157,0,0
+buyer_N_total_value_high,`time_n_sale_str_2021-06`,-0.185075326139228,-0.152082523160347,1,0
+buyer_N_total_value_high,`time_n_sale_str_2021-07`,-0.229771290711929,-0.210938539088265,1,0
+buyer_N_total_value_high,`time_n_sale_str_2021-08`,-0.058780129437622,-0.0244013825603817,0,0
+buyer_N_total_value_high,`time_n_sale_str_2021-09`,-0.0620823220640342,-0.041936200720567,0,0
+buyer_N_total_value_high,`time_n_sale_str_2021-10`,-0.0402315188552784,-0.0211644551392131,0,0
+buyer_N_total_value_high,`time_n_sale_str_2021-11`,-0.0302103555572697,-0.00331608103407704,0,0
+buyer_N_total_value_high,`time_n_sale_str_2021-12`,-0.0670251187030558,-0.044935277870779,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-01`,-0.054755256294827,-0.0250345313213276,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-02`,-0.0708344746000579,-0.0529634173520902,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-03`,0.0139206021551205,0.0419439689002857,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-04`,0.052346807667143,0.0791642182662808,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-05`,0.0215124109729207,0.0500048004760483,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-06`,-0.0665810448367639,-0.0470008115070529,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-07`,-0.0320668061938695,-0.0179193516873115,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-08`,0.0239275201684003,0.0422173237447089,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-09`,0.0252993972983544,0.0409557564847252,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-10`,0.0111567406849798,0.0227045846844045,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-11`,-0.0334975076510975,-0.0149452931863409,0,0
+buyer_N_total_value_high,`time_n_sale_str_2022-12`,-0.00513613626332726,0.0109017816327842,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-01`,0.0241655381846746,0.0440758928902769,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-02`,0.0234188542051783,0.0420850035316798,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-03`,-0.0248634490667384,-0.00742315339011973,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-04`,0.00958925280203811,0.0318876345419961,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-05`,-0.0056650462321731,0.00567054010281299,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-06`,0.163784500787273,0.134634208000524,1,0
+buyer_N_total_value_high,`time_n_sale_str_2023-07`,0.0749636295584862,0.072238788687995,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-08`,-0.0039327897362765,0.0107820933978543,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-09`,0.00300005819825393,0.00708140270810384,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-10`,0.0705146237724282,0.0819457315298207,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-11`,0.0949972239933259,0.0563370104439451,0,0
+buyer_N_total_value_high,`time_n_sale_str_2023-12`,0.105104278018222,0.0487015921316587,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-01`,0.293679601907866,0.184946730250933,1,0
+buyer_N_total_value_high,`time_n_sale_str_2024-02`,0.146740055811163,0.100511097422537,1,0
+buyer_N_total_value_high,`time_n_sale_str_2024-03`,0.116963632092204,0.0668333472705951,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-04`,0.135275747975903,0.0495526926831467,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-05`,0.0970232641729698,0.0348418303789119,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-06`,0.053166007005736,0.0175696144860668,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-07`,0,0.00484040624842971,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-08`,0.0110863843077474,0.0280341758027293,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-09`,0.0292496742010344,0.0355762664739123,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-10`,0.00483862367529347,0.00898922578894468,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-11`,-0.0452692502002572,-0.0329760826087221,0,0
+buyer_N_total_value_high,`time_n_sale_str_2024-12`,-0.00738275166609913,0.00637645629596286,0,0
+buyer_N_total_value_high,`time_n_sale_str_2025-01`,0.0521113989241931,0.053793507242541,0,0
+buyer_N_total_value_high,`time_n_sale_str_2025-02`,-0.0181379377670844,-0.00386857992425518,0,0
+buyer_N_total_value_high,`time_n_sale_str_2025-03`,0.0123269156874771,0.0262583581451451,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-06`,-0.133501780661928,-0.0835042041529113,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-07`,-0.0862402219399403,-0.0536891213803831,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-08`,-0.0331389929541079,0.0145157115952728,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-09`,-0.0755972092458404,-0.0564664650827708,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-10`,0.00625389479688462,0.026611969464651,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-11`,0.00523468416327732,0.0296452522627576,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2021-12`,-0.0220703615597803,-0.00403844456972136,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-01`,0,0.0275537215423677,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-02`,-0.00557926766360361,0.00912636917623449,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-03`,-0.0133326147190471,0.00821275049193873,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-04`,0.00433393873797196,0.0238315949150853,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-05`,-0.031535290907014,-0.0129736615636348,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-06`,-0.0549383886266683,-0.0412132512251779,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-07`,0.00549731274914942,0.0208582548313658,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-08`,-0.0288055209762333,-0.0141630574194341,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-09`,-0.0136473566931998,-0.00205208981116089,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-10`,0.0433148326516654,0.0514033519804652,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-11`,-0.00671516887778746,0.00924433160907813,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2022-12`,0.00478517520462523,0.0198612307869632,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-01`,0.0126029537828622,0.0269695556221016,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-02`,-0.00240583144226083,0.00687882277134365,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-03`,-0.00713870051386251,0.00214590405653297,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-04`,0.0212457862080942,0.041786269640588,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-05`,0.054993703017572,0.0665756898292209,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-06`,0.16081758006344,0.113012761027502,1,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-07`,0.0715215952938271,0.0720724329059458,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-08`,0.0290677920295026,0.0417273260327075,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-09`,0.0246552366855025,0.0262394805510317,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-10`,0.033138859965988,0.037331191335997,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-11`,0.111019573815654,0.0559606241822157,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2023-12`,0.133963586382498,0.056856148422024,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-01`,0.222363999628249,0.0902376129626233,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-02`,0.0990493735695672,0.0189965923910658,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-03`,0.121055020054205,0.0583635607797524,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-04`,0.159572489007633,0.0662403085308743,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-05`,0.0468543315167453,-0.0371996070571632,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-06`,0.0441546782114895,0.0051740862404603,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-07`,0,0.000621035200155156,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-08`,0.0104053244579837,0.0155982999530655,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-09`,0.00594856755704847,0.00708140270810383,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-10`,-0.0105436474782386,-0.00110622666704112,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-11`,-0.0130664889694843,-0.00157230460245846,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2024-12`,-0.00769822073329476,-0.0013379229026829,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2025-01`,0.00265369951556107,-0.00570701602742376,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2025-02`,-0.0159784295573534,-0.000893235730125187,0,0
+buyer_N_total_value_high,`time_n-1_sale_str_2025-03`,-0.0106508139356992,-0.00333669237107403,0,0
+buyer_N_total_value_high,`Background_recoded_Army Green`,0.0404351012161418,0.0369444582146177,0,0
+buyer_N_total_value_high,Background_recoded_Blue,-0.0209826110152349,-0.0251804925011197,0,0
+buyer_N_total_value_high,Background_recoded_Gray,-0.00156905806817736,0.00549972707017408,0,0
+buyer_N_total_value_high,`Background_recoded_New Punk Blue`,0.00693226760776673,-0.00254434659102487,0,0
+buyer_N_total_value_high,Background_recoded_Orange,-0.0252447987435997,-0.00852445182395982,0,0
+buyer_N_total_value_high,Background_recoded_Purple,-0.0159153034923032,-0.0158557299780656,0,0
+buyer_N_total_value_high,Background_recoded_Yellow,0.0282089169930373,0.0160598146612274,0,0
+buyer_N_total_value_high,`Clothes_recoded_Bayc T Black`,-0.0036501487999184,0.013282497915763,0,0
+buyer_N_total_value_high,`Clothes_recoded_Bayc T Red`,0,0.00839634735089078,0,0
+buyer_N_total_value_high,`Clothes_recoded_Biker Vest`,0.00628524491340479,-0.00182167119230846,0,0
+buyer_N_total_value_high,`Clothes_recoded_Black Holes T`,-0.00539129589089792,-0.0152856388729859,0,0
+buyer_N_total_value_high,`Clothes_recoded_Black T`,-0.0382250109984631,-0.0278663886801387,0,0
+buyer_N_total_value_high,`Clothes_recoded_Bone Necklace`,0.0449386451752046,0.0399052523174742,0,0
+buyer_N_total_value_high,`Clothes_recoded_Bone Tee`,0.0116318756437716,-0.00570440167202926,0,0
+buyer_N_total_value_high,`Clothes_recoded_Caveman Pelt`,0.00592095139512637,-0.008565386621144,0,0
+buyer_N_total_value_high,`Clothes_recoded_Cowboy Shirt`,-0.0515350512266676,-0.0509266191759438,0,0
+buyer_N_total_value_high,Clothes_recoded_Guayabera,0.00488530315304,-0.00578671518910728,0,0
+buyer_N_total_value_high,Clothes_recoded_Hawaiian,0.00156060928175649,-0.00100121369650027,0,0
+buyer_N_total_value_high,`Clothes_recoded_Hip Hop`,0.0139053495799304,0.0324548481778225,0,0
+buyer_N_total_value_high,`Clothes_recoded_Lab Coat`,-0.0220703615597804,-0.0222531433607847,0,0
+buyer_N_total_value_high,`Clothes_recoded_Leather Jacket`,-0.0488339067128473,-0.0545419471758358,0,0
+buyer_N_total_value_high,`Clothes_recoded_Leather Punk Jacket`,0,0.00487227440802377,0,0
+buyer_N_total_value_high,`Clothes_recoded_Lumberjack Shirt`,-0.0578821821781758,-0.0699760002553342,0,0
+buyer_N_total_value_high,`Clothes_recoded_Navy Striped Tee`,-0.00998209151610072,-0.0147441214793761,0,0
+buyer_N_total_value_high,Clothes_recoded_No_Clothes,0.0785234573640891,0.093442932781308,0,0
+buyer_N_total_value_high,Clothes_recoded_Other_Clothes,0.080654094669796,0.107575015362306,1,0
+buyer_N_total_value_high,`Clothes_recoded_Prison Jumpsuit`,-0.0233252110865504,-0.0365817136436274,0,0
+buyer_N_total_value_high,`Clothes_recoded_Prom Dress`,0,-0.0165912743760485,0,0
+buyer_N_total_value_high,`Clothes_recoded_Puffy Vest`,0.0219456913800797,0.0241347512746018,0,0
+buyer_N_total_value_high,`Clothes_recoded_Rainbow Suspenders`,0.00217674250246778,0.00704853538219091,0,0
+buyer_N_total_value_high,`Clothes_recoded_Sailor Shirt`,-0.0209699878220076,-0.0321549958489427,0,0
+buyer_N_total_value_high,Clothes_recoded_Service,0.00605685003426434,0.00462408832328142,0,0
+buyer_N_total_value_high,`Clothes_recoded_Sleeveless Logo T`,-0.0300726932735552,-0.0272184861677358,0,0
+buyer_N_total_value_high,`Clothes_recoded_Sleeveless T`,-0.00979494812992828,-0.0142398956230026,0,0
+buyer_N_total_value_high,`Clothes_recoded_Smoking Jacket`,0.010266224410806,0.0127869569140576,0,0
+buyer_N_total_value_high,`Clothes_recoded_Striped Tee`,-0.0376512111932831,-0.0481114547145589,0,0
+buyer_N_total_value_high,`Clothes_recoded_Stunt Jacket`,0.00396195839663705,0.000902215653561649,0,0
+buyer_N_total_value_high,Clothes_recoded_Tanktop,0.0230869549662201,0.0247101689259834,0,0
+buyer_N_total_value_high,`Clothes_recoded_Tie Dye`,-0.0280479239448954,-0.0305232024226024,0,0
+buyer_N_total_value_high,Clothes_recoded_Toga,0.0298375505931132,0.0227921166653972,0,0
+buyer_N_total_value_high,`Clothes_recoded_Tuxedo Tee`,-0.0176536266037366,-0.0159930590648265,0,0
+buyer_N_total_value_high,`Clothes_recoded_Tweed Suit`,-0.00441381425704193,-0.00569304974664243,0,0
+buyer_N_total_value_high,`Clothes_recoded_Vietnam Jacket`,0.0306342736124847,0.0311969015404874,0,0
+buyer_N_total_value_high,`Clothes_recoded_Wool Turtleneck`,-0.0640074705481465,-0.0650002732284962,0,0
+buyer_N_total_value_high,`Clothes_recoded_Work Vest`,-0.0477664066242505,-0.0403159640207784,0,0
+buyer_N_total_value_high,`Earring_recoded_Diamond Stud`,-0.0829901496633377,-0.0729557790459425,0,0
+buyer_N_total_value_high,`Earring_recoded_Gold Hoop`,-0.0280459484434467,-0.0218257183142803,0,0
+buyer_N_total_value_high,`Earring_recoded_Gold Stud`,-0.1221710681956,-0.111068574009826,1,0
+buyer_N_total_value_high,Earring_recoded_No_Earring,0.14228402008084,0.127668542675246,1,0
+buyer_N_total_value_high,`Earring_recoded_Silver Hoop`,-0.040784222940792,-0.0432095075812318,0,0
+buyer_N_total_value_high,`Earring_recoded_Silver Stud`,-0.0238990630730752,-0.0221103912842355,0,0
+buyer_N_total_value_high,Eyes_recoded_Angry,0.00497730967069237,0.00516435810657743,0,0
+buyer_N_total_value_high,Eyes_recoded_Blindfold,-0.0170142728772081,-0.0499810033109355,0,0
+buyer_N_total_value_high,Eyes_recoded_Bloodshot,0.0137967943109286,0.00579659954174843,0,0
+buyer_N_total_value_high,Eyes_recoded_Bored,0.0391098840071781,0.0598288187540272,0,0
+buyer_N_total_value_high,Eyes_recoded_Closed,-0.0261480138287776,-0.0503942163203272,0,0
+buyer_N_total_value_high,Eyes_recoded_Coins,-0.0199532524006569,-0.031486193084148,0,0
+buyer_N_total_value_high,Eyes_recoded_Crazy,0.0558692893545881,0.0330349271172791,0,0
+buyer_N_total_value_high,Eyes_recoded_Eyepatch,0.0212334355118293,0.0213532659307088,0,0
+buyer_N_total_value_high,Eyes_recoded_Heart,-0.050023606435151,-0.0256846318730267,0,0
+buyer_N_total_value_high,Eyes_recoded_Holographic,0.0303409916034005,0.041823333520921,0,0
+buyer_N_total_value_high,Eyes_recoded_Hypnotized,-0.0509101762882173,-0.0551455590683049,0,0
+buyer_N_total_value_high,Eyes_recoded_Other_Eyes,0.0787174803770024,0.103483588748063,1,0
+buyer_N_total_value_high,Eyes_recoded_Robot,-0.0184020525925699,-0.00173294629497213,0,0
+buyer_N_total_value_high,Eyes_recoded_Sad,-0.00865815844408923,-0.00638820204045762,0,0
+buyer_N_total_value_high,Eyes_recoded_Scumbag,-0.0387284816176316,-0.0289352560345543,0,0
+buyer_N_total_value_high,Eyes_recoded_Sleepy,-0.0154821437577247,-0.0243582519153836,0,0
+buyer_N_total_value_high,Eyes_recoded_Sunglasses,-0.0207143353012591,-0.00110940738641872,0,0
+buyer_N_total_value_high,`Eyes_recoded_Wide Eyed`,-0.0400438778954179,-0.0483737725366975,0,0
+buyer_N_total_value_high,`Eyes_recoded_X Eyes`,0.0111277029729121,-0.0106709810404425,0,0
+buyer_N_total_value_high,Eyes_recoded_Zombie,0.050523944359014,0.0595358622771444,0,0
+buyer_N_total_value_high,Fur_recoded_Blue,-0.0212570968860661,-0.0192443434336788,0,0
+buyer_N_total_value_high,Fur_recoded_Brown,0.0110788866007059,-0.00163278565123816,0,0
+buyer_N_total_value_high,Fur_recoded_Cheetah,0.00669670856089128,0.0199334285448767,0,0
+buyer_N_total_value_high,Fur_recoded_Cream,0.00614490367379388,-0.00590796160181354,0,0
+buyer_N_total_value_high,`Fur_recoded_Dark Brown`,-0.0349091230123633,-0.0439753382938109,0,0
+buyer_N_total_value_high,`Fur_recoded_Death Bot`,0.0251215888338441,0.0417273260327079,0,0
+buyer_N_total_value_high,Fur_recoded_Dmt,0.0110200409769177,0.0204528743372412,0,0
+buyer_N_total_value_high,`Fur_recoded_Golden Brown`,0.00186693003824992,-0.00572667855277188,0,0
+buyer_N_total_value_high,Fur_recoded_Gray,-0.0247090890691998,-0.0255148211793076,0,0
+buyer_N_total_value_high,Fur_recoded_Noise,0.0363591505040605,0.0528829906466094,0,0
+buyer_N_total_value_high,Fur_recoded_Other_Fur,0.0995614209614432,0.115506673647605,1,0
+buyer_N_total_value_high,Fur_recoded_Pink,0.00682200604996761,0.00347542752275008,0,0
+buyer_N_total_value_high,Fur_recoded_Red,0.0132381050744289,-0.000211948564437628,0,0
+buyer_N_total_value_high,Fur_recoded_Robot,0.00498502072048041,0.0216323028948833,0,0
+buyer_N_total_value_high,Fur_recoded_Tan,-0.0177153022415261,-0.022748803080886,0,0
+buyer_N_total_value_high,Fur_recoded_White,0.0104305594629396,0.0224622448979053,0,0
+buyer_N_total_value_high,Fur_recoded_Zombie,0.0562620258765185,0.0563656151295125,0,0
+buyer_N_total_value_high,`Hat_recoded_Baby's Bonnet`,0,-0.00108616702023208,0,0
+buyer_N_total_value_high,`Hat_recoded_Bayc Flipped Brim`,0.022041085994267,0.0438808629693917,0,0
+buyer_N_total_value_high,`Hat_recoded_Bayc Hat Black`,-0.0301892741209896,-0.0138680037775936,0,0
+buyer_N_total_value_high,`Hat_recoded_Bayc Hat Red`,0.0250548223193095,0.042567838741387,0,0
+buyer_N_total_value_high,Hat_recoded_Beanie,-0.00997684747250906,-0.0099104381627917,0,0
+buyer_N_total_value_high,Hat_recoded_Bowler,-0.0172454867117558,-0.027567655886844,0,0
+buyer_N_total_value_high,`Hat_recoded_Bunny Ears`,0,-0.00810746374136166,0,0
+buyer_N_total_value_high,`Hat_recoded_Commie Hat`,0.0129310893980811,0.016322269888394,0,0
+buyer_N_total_value_high,`Hat_recoded_Cowboy Hat`,-0.0165957298047888,-0.0265159113633288,0,0
+buyer_N_total_value_high,`Hat_recoded_Faux Hawk`,-0.0367106346069266,-0.0312055760893545,0,0
+buyer_N_total_value_high,Hat_recoded_Fez,-0.0117164380772717,-0.0148871303012333,0,0
+buyer_N_total_value_high,`Hat_recoded_Fisherman's Hat`,-0.0208546197433353,-0.0248272366335747,0,0
+buyer_N_total_value_high,`Hat_recoded_Girl's Hair Pink`,0.0250548223193096,0.0184623892182612,0,0
+buyer_N_total_value_high,`Hat_recoded_Girl's Hair Short`,0.010173955666367,0.00638624473595271,0,0
+buyer_N_total_value_high,Hat_recoded_Halo,0.018749886237007,0.0207305812608489,0,0
+buyer_N_total_value_high,Hat_recoded_Horns,0.0211707701247135,0.0102367402635288,0,0
+buyer_N_total_value_high,`Hat_recoded_Irish Boho`,0.0116923890930284,-4.05286603291202e-06,0,0
+buyer_N_total_value_high,Hat_recoded_No_Hat,0.00669770480849437,0.0130532365602622,0,0
+buyer_N_total_value_high,Hat_recoded_Other_Hat,0.0454754374325559,0.0694054942754299,0,0
+buyer_N_total_value_high,`Hat_recoded_Party Hat 1`,0.00463501692222469,0.0101343762951002,0,0
+buyer_N_total_value_high,`Hat_recoded_Party Hat 2`,-0.0121652870968904,-0.000988638826958619,0,0
+buyer_N_total_value_high,`Hat_recoded_Police Motorcycle Helmet`,-0.0262421108428363,-0.0346573837856917,0,0
+buyer_N_total_value_high,`Hat_recoded_Prussian Helmet`,-0.0318017297207512,-0.0283903578340973,0,0
+buyer_N_total_value_high,`Hat_recoded_S&m Hat`,0.0309438649366514,0.0283887200439529,0,0
+buyer_N_total_value_high,Hat_recoded_Safari,-0.0295784223669619,-0.043972680052764,0,0
+buyer_N_total_value_high,`Hat_recoded_Sea Captain's Hat`,-0.01651030962136,-0.000653377180568224,0,0
+buyer_N_total_value_high,`Hat_recoded_Seaman's Hat`,-0.00887207493998716,-0.0173384786688283,0,0
+buyer_N_total_value_high,`Hat_recoded_Short Mohawk`,0.00565159171421941,-0.00879299328722282,0,0
+buyer_N_total_value_high,`Hat_recoded_Spinner Hat`,0.00189168226514004,0.0180396352292229,0,0
+buyer_N_total_value_high,`Hat_recoded_Stuntman Helmet`,-0.022209717909559,-0.0262349930961297,0,0
+buyer_N_total_value_high,`Hat_recoded_Sushi Chef Headband`,-0.0191127488193316,-0.0248762864259265,0,0
+buyer_N_total_value_high,`Hat_recoded_Vietnam Era Helmet`,0.068107643800571,0.0607107864375554,0,0
+buyer_N_total_value_high,`Hat_recoded_Ww2 Pilot Helm`,-0.0097879547591263,-0.0220678395917943,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Bubblegum`,0.0312796119399051,0.0322310038106336,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Cigar`,-0.00957043260910028,-0.00334268714903233,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Cigarette`,-0.0374878763449767,-0.042284149425081,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Pipe`,-0.0367106346069266,-0.0256081094869586,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Unshaven`,0.0358242654035804,0.0502571146763273,0,0
+buyer_N_total_value_high,`Mouth_recoded_Bored Unshaven Cigarette`,-0.0275309542483414,-0.0321343162540378,0,0
+buyer_N_total_value_high,Mouth_recoded_Discomfort,0.00179709282500462,-0.0117050275027832,0,0
+buyer_N_total_value_high,Mouth_recoded_Dumbfounded,-0.0403947476548829,-0.0523928338932774,0,0
+buyer_N_total_value_high,Mouth_recoded_Grin,-0.000993701779403057,0.00133218756743823,0,0
+buyer_N_total_value_high,`Mouth_recoded_Grin Multicolored`,0.062287894794539,0.0784797361579631,0,0
+buyer_N_total_value_high,Mouth_recoded_Jovial,-0.0179740130920211,-0.0233409253832316,0,0
+buyer_N_total_value_high,Mouth_recoded_Other_Mouth,0.026845241557622,0.0603382939474315,0,0
+buyer_N_total_value_high,`Mouth_recoded_Phoneme  ooo`,-0.0318719818962913,-0.049015057400101,0,0
+buyer_N_total_value_high,`Mouth_recoded_Phoneme L`,-0.0246737013431454,-0.0371752521965704,0,0
+buyer_N_total_value_high,`Mouth_recoded_Phoneme Oh`,-0.0372765370046252,-0.0480372051188863,0,0
+buyer_N_total_value_high,`Mouth_recoded_Phoneme Vuh`,0.0247227087177105,0.0192689037895784,0,0
+buyer_N_total_value_high,`Mouth_recoded_Phoneme Wah`,0.00405361914123056,0.00226814460144176,0,0
+buyer_N_total_value_high,Mouth_recoded_Rage,0.0185201298543137,0.00917997067804879,0,0
+buyer_N_total_value_high,`Mouth_recoded_Small Grin`,0,-0.00872622779192922,0,0
+buyer_N_total_value_high,`Mouth_recoded_Tongue Out`,0.0188539803394803,0.0215347448522469,0,0
+buyer_N_total_value_high,`log_price_change_n-1`,-0.040700144319366,0.0226876380064443,0,0
+buyer_N_1_total_value_high,log_price_1_sale,0.211616405281296,0.0941674906567287,0,0
+buyer_N_1_total_value_high,sold_after_30d,-0.424597749512895,-0.280227806744667,1,1
+buyer_N_1_total_value_high,buyern_act_period,-0.358760519609564,-0.0249999067113821,0,0
+buyer_N_1_total_value_high,log_buyern_total_value,0.238392543799133,0.0380577816586109,0,0
+buyer_N_1_total_value_high,log_buyern_rolling_avg_value_last10,0.0757581664515263,-0.0129150475168778,0,0
+buyer_N_1_total_value_high,sellern_act_period,-0.307478735046367,0.0579775164622701,0,0
+buyer_N_1_total_value_high,log_sellern_total_value,1.46791567721134,1.04111615484488,1,1
+buyer_N_1_total_value_high,log_sellern_rolling_avg_value_last10,0.315395000649935,0.0388199343042671,0,0
+buyer_N_1_total_value_high,buyern_1_act_period,-0.331201529468487,0.00928251044027896,0,0
+buyer_N_1_total_value_high,log_buyern_1_rolling_avg_value_last10,0.327240948323375,0.168913657921444,1,0
+buyer_N_1_total_value_high,sellern_1_act_period,-0.560549199067263,-0.14159543445733,1,0
+buyer_N_1_total_value_high,log_sellern_1_total_value,0.212359373785046,0.0994929939085727,0,0
+buyer_N_1_total_value_high,log_sellern_1_rolling_avg_value_last10,0.310782636852297,0.103484104862623,1,0
+buyer_N_1_total_value_high,log_unique_makers_count,0.420142591650786,0.135366561997273,1,0
+buyer_N_1_total_value_high,log_median_offer_price,0.203432633413128,0.0614043310073072,0,0
+buyer_N_1_total_value_high,log_buyern_avg_total_gaspaid,0.11592964441665,0.0662486266667259,0,0
+buyer_N_1_total_value_high,log_buyern_1_avg_total_gaspaid,1.23684619739663,0.981075590092197,1,1
+buyer_N_1_total_value_high,log_sellern_avg_total_gaspaid,0.801955984551447,0.465970491682497,1,1
+buyer_N_1_total_value_high,log_sellern_1_avg_total_gaspaid,0.0916364032273327,0.0548990837083079,0,0
+buyer_N_1_total_value_high,log_buyern_avg_gasLimit_cost,-0.188430746223418,-0.0177950648506496,0,0
+buyer_N_1_total_value_high,log_buyern_1_avg_gasLimit_cost,0.11513279830401,0.161381236630046,1,0
+buyer_N_1_total_value_high,log_sellern_avg_gasLimit_cost,0.26771892639687,0.0910475343752396,0,0
+buyer_N_1_total_value_high,log_sellern_1_avg_gasLimit_cost,0.0200352978314253,0.0211121018834885,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-06`,-0.236595176190859,0.0182323699001346,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-07`,-0.15339632289388,0.0521101192086452,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-08`,-0.111535257562356,0.0676745783287816,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-09`,-0.0736141613691725,-0.00455781614904997,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-10`,-0.109244455780307,-0.0888301352907224,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-11`,-0.0914005585216467,-0.0303607846775053,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2021-12`,-0.0911362672983405,-0.0432391894405938,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-01`,-0.079620296350125,-0.0531614877120787,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-02`,-0.0792311887886551,-0.0562667407888364,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-03`,-0.0796165821148711,-0.0773579223521754,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-04`,-0.0360798909887577,-0.0347441178419926,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-05`,-0.0529471159439651,-0.0650284055527349,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-06`,-0.0153597918834558,-0.0281180087476909,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-07`,0.0263329298312698,0.0169153015166239,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-08`,-0.0195786545651145,-0.0297211591772212,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-09`,-0.0256682435899905,-0.0339755612602525,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-10`,-0.00399914478809311,-0.0115936419983729,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-11`,0.0581476168739672,0.0360188006295202,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2022-12`,0.0561273238229379,0.0268063272663609,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-01`,0.0500719081543906,-0.000987177772616268,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-02`,0.069868394467895,0.0644344534805226,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-03`,0.0470206864224337,0.016296102315278,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-04`,0.101261718380237,0.0389475173677489,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-05`,0.0733554739416369,0.0681104081166146,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-06`,0.109742984891371,0.0527906698565885,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-07`,0.0819305050048915,0.0351264545882644,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-08`,0.0742583134163744,0.0347380884837352,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-09`,0.0506841467296931,0.0284830373008948,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-10`,0.0661591104682544,0.0450863465638053,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-11`,0.118859943090007,0.0504230156063761,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2023-12`,0.0476485471673828,-0.0186659265639599,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-01`,0.181867216042468,0.0282197764898139,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-02`,0.0743203354790983,0.00190188043153473,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-03`,0.0790831859587565,-0.0589051708091114,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-04`,0.154625497665288,0.0236274290210315,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-05`,0.115991376052807,0.0196781343196469,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-06`,0.0982992487442993,0.0511041291369658,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-07`,-0.0051319097496436,-0.0240099652642003,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-08`,0.0505495644747461,0.0297014870818187,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-09`,0.028896919435015,0.00449164795880554,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-10`,0.0673666324130751,0.0610354577111867,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-11`,0.0352195594460032,-0.0197784291343574,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2024-12`,0.0776069009101611,0.00942652629288128,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2025-01`,0.0217602839540412,-0.0628128377220106,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2025-02`,0.112086385035914,0.068940659280807,0,0
+buyer_N_1_total_value_high,`time_n_sale_str_2025-03`,0.0181537559478171,-0.0108465776140536,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-06`,-0.297257044047833,-0.0794440369633489,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-07`,-0.212278542140512,-0.0802106332273263,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-08`,-0.0491024935149548,-0.00246743304382131,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-09`,-0.00241694706171071,0.00615902802077981,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-10`,-0.0484567116758947,-0.0569186259705411,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-11`,-0.0651895865613044,-0.0586257410740829,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2021-12`,-0.044617453070251,-0.0469774594047052,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-01`,0.0178292034401185,0.00121288648223114,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-02`,-0.0394291883936741,-0.04993708222764,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-03`,-0.0215054082375564,-0.0463432986537274,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-04`,0.0125170252054026,0.00075811327236168,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-05`,0.0394527638690369,0.0355085087453445,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-06`,-0.0334295881699672,-0.074935057076209,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-07`,0.0106145246652044,-0.0101328298076992,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-08`,-0.00301854609482457,-0.00679311343426509,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-09`,-0.000305894534615188,-0.0109676404398826,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-10`,0.0194231610256746,0.0170562619177174,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-11`,0.0824500793220141,0.0485249017018375,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2022-12`,0.0666114089907081,0.0188914887577438,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-01`,0.0525473089623518,0.0196712170821597,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-02`,0.0983673137528495,0.0821438612914573,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-03`,0.0495561730520826,0.0259866279837159,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-04`,0.0903481047316829,0.0145116288960487,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-05`,0.0491228164779286,0.0372433038597053,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-06`,0.172084898497602,0.112463178774332,1,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-07`,0.131327769225136,0.0948014090261852,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-08`,0.103476613836146,0.057208075176613,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-09`,0.0860726131667687,0.0596849706662322,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-10`,0.0991265386229798,0.0682496336954231,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-11`,0.145155990961086,0.0933706286072552,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2023-12`,0.0932318755332011,0.0277813513924499,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-01`,0.215094430854197,0.0635657470180397,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-02`,0.139196363729602,0.0644344534805224,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-03`,0.173893663423011,0.0268825086768059,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-04`,0.178085291183993,0.0331820718432709,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-05`,0.166265670232425,0.0875099283936292,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-06`,0.106904874055738,0.0586630581287853,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-07`,0.0745019706892286,0.0715380416252802,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-08`,0.0672922741523593,0.0490532865549481,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-09`,0.0413072509311111,0.0123865602999105,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-10`,0.0417948747733799,0.013370200690655,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-11`,0.0349085352928065,-0.039367853066879,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2024-12`,0.142301316681198,0.0707714385620845,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2025-01`,0.113966786021615,0.042992791379729,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2025-02`,0.0841003039851684,0.0335169897463943,0,0
+buyer_N_1_total_value_high,`time_n-1_sale_str_2025-03`,0.0211119911278237,-0.0167532634986159,0,0
+buyer_N_1_total_value_high,`Background_recoded_Army Green`,3.40601377309764e-05,-0.0184053864528789,0,0
+buyer_N_1_total_value_high,Background_recoded_Blue,-0.024058519835481,-0.0409661421151522,0,0
+buyer_N_1_total_value_high,Background_recoded_Gray,-0.0140553446750383,-0.00890008248920205,0,0
+buyer_N_1_total_value_high,`Background_recoded_New Punk Blue`,-0.0223372970784969,-0.0237685213762217,0,0
+buyer_N_1_total_value_high,Background_recoded_Orange,-0.0359805026922414,-0.0385088943828565,0,0
+buyer_N_1_total_value_high,Background_recoded_Purple,0.0264699709688789,0.0405436216275198,0,0
+buyer_N_1_total_value_high,Background_recoded_Yellow,0.0434287098679579,0.0572481753527672,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Bayc T Black`,-0.00423026212500969,0.027198943623441,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Bayc T Red`,-0.0458910598090298,-0.0492559820950435,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Biker Vest`,0.0590671040157101,0.07094500927463,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Black Holes T`,-0.0275460632296257,-0.0659238931086011,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Black T`,-0.0474771207774869,-0.0305978820006001,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Bone Necklace`,-0.0131689575815011,-0.00960575766186477,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Bone Tee`,0.010992323252883,-0.0190692073588059,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Caveman Pelt`,0.0488300060665381,0.0318648361913614,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Cowboy Shirt`,0.0089188466152786,0.02149033537621,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Guayabera,0.00423167645742291,0.016731487730836,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Hawaiian,0.0258508784753251,0.0307648862455059,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Hip Hop`,-0.0143578578551036,-0.0127472102385592,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Lab Coat`,0.0215956881607316,0.0296728387625587,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Leather Jacket`,-0.0494119843886438,-0.0496231450524865,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Leather Punk Jacket`,0.00818252384100427,-0.00130397972974052,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Lumberjack Shirt`,0.0163943758659523,0.0268991605721348,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Navy Striped Tee`,-0.0535261700866025,-0.0829797154476499,0,0
+buyer_N_1_total_value_high,Clothes_recoded_No_Clothes,0.0409427645900193,0.0555553290906554,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Other_Clothes,0.0199674136174504,0.0331434962870393,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Prison Jumpsuit`,0.00269377016805008,-0.0213054542868724,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Prom Dress`,0.0140833514519429,0.0410197097858682,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Puffy Vest`,0.00443471454071944,0.0163236264607458,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Rainbow Suspenders`,-0.0287807021331032,-0.0399600126402745,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Sailor Shirt`,0.0172606709684729,-0.00543586930666109,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Service,0.0297685191092108,0.0207743204948184,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Sleeveless Logo T`,-0.00908119067114003,-0.00393734477039509,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Sleeveless T`,-0.0169764962777561,0.00208081210325173,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Smoking Jacket`,0.0096459430611163,0.0215247101601287,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Striped Tee`,-0.0159220503050401,-0.0313140175610799,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Stunt Jacket`,-0.0124183870471585,-0.00962591506247882,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Tanktop,-0.00394302688585348,-0.0208478291175206,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Tie Dye`,-0.0371631776603179,-0.0499373020848785,0,0
+buyer_N_1_total_value_high,Clothes_recoded_Toga,-0.0163986632895452,-0.0263500784541026,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Tuxedo Tee`,0.00736047359225007,0.0125372935544826,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Tweed Suit`,-0.0225450417346908,-0.0252350855739965,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Vietnam Jacket`,0.0368241354618286,0.04557028539991,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Wool Turtleneck`,-0.0140993523878131,-0.0118961898466531,0,0
+buyer_N_1_total_value_high,`Clothes_recoded_Work Vest`,-0.0299629967522612,-0.0292843098310359,0,0
+buyer_N_1_total_value_high,`Earring_recoded_Diamond Stud`,-0.0150080609804118,0.0124679341537162,0,0
+buyer_N_1_total_value_high,`Earring_recoded_Gold Hoop`,-0.0191811198665149,-0.0121128478364655,0,0
+buyer_N_1_total_value_high,`Earring_recoded_Gold Stud`,0.0140605068829037,0.0182323699001346,0,0
+buyer_N_1_total_value_high,Earring_recoded_No_Earring,-0.00742539140429972,-0.0210968770797715,0,0
+buyer_N_1_total_value_high,`Earring_recoded_Silver Hoop`,-0.0130334505174309,-0.0432616726557159,0,0
+buyer_N_1_total_value_high,`Earring_recoded_Silver Stud`,0.0447385222778008,0.0714075538643441,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Angry,0.0165495565654429,0.0105127983754891,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Blindfold,0.01323089893875,-0.0164491332556394,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Bloodshot,0.0530579458538115,0.052075052238387,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Bored,0.000836632323100721,0.0101297003688026,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Closed,-0.0118102945747251,-0.0361268218949923,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Coins,-0.0255780428193123,-0.0316647796818435,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Crazy,0.0702802614912274,0.0337127242644995,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Eyepatch,-0.0106668509058828,-0.00191334193553124,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Heart,-0.0297738214501113,0.0114269805842547,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Holographic,-0.0655119731556833,-0.0541453239117029,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Hypnotized,-0.0199085942381748,-0.0143077683543008,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Other_Eyes,0.036902060262018,0.0588925572304681,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Robot,-0.0106668509058828,0.00744260244400074,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Sad,-0.011841442233235,-0.0214795341708652,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Scumbag,-0.0217229722741985,-0.00464015068819776,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Sleepy,-0.0224473390376382,-0.0343926064534919,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Sunglasses,-0.0717725007199126,-0.0732573320033298,0,0
+buyer_N_1_total_value_high,`Eyes_recoded_Wide Eyed`,-0.0143333412158663,0.00183129605939056,0,0
+buyer_N_1_total_value_high,`Eyes_recoded_X Eyes`,0.0359011834741215,0.0150166715705543,0,0
+buyer_N_1_total_value_high,Eyes_recoded_Zombie,0.0141357752190447,0.00162012395553318,0,0
+buyer_N_1_total_value_high,Fur_recoded_Blue,-0.017456463974552,0.00609883646734722,0,0
+buyer_N_1_total_value_high,Fur_recoded_Brown,0.030133584575624,0.0318721279729165,0,0
+buyer_N_1_total_value_high,Fur_recoded_Cheetah,0.00589170552237179,0.0368239635180736,0,0
+buyer_N_1_total_value_high,Fur_recoded_Cream,0.0255459528885163,-0.000172294789113179,0,0
+buyer_N_1_total_value_high,`Fur_recoded_Dark Brown`,0.0169491646737084,0.0204325545437202,0,0
+buyer_N_1_total_value_high,`Fur_recoded_Death Bot`,-0.0381839362883563,-0.052741184343715,0,0
+buyer_N_1_total_value_high,Fur_recoded_Dmt,0.0471976332562248,0.0284712692259442,0,0
+buyer_N_1_total_value_high,`Fur_recoded_Golden Brown`,-0.0385533289278542,-0.0416834364960347,0,0
+buyer_N_1_total_value_high,Fur_recoded_Gray,-0.0115165598788577,-0.00753450765545893,0,0
+buyer_N_1_total_value_high,Fur_recoded_Noise,0.0102003158563604,0.0210882254153033,0,0
+buyer_N_1_total_value_high,Fur_recoded_Other_Fur,0.0933835460722916,0.11820470205682,1,0
+buyer_N_1_total_value_high,Fur_recoded_Pink,-0.0282529884994659,-0.0408167638564655,0,0
+buyer_N_1_total_value_high,Fur_recoded_Red,-0.00210831522912949,0.000765182504120341,0,0
+buyer_N_1_total_value_high,Fur_recoded_Robot,-0.022241541434017,-0.0142182831589742,0,0
+buyer_N_1_total_value_high,Fur_recoded_Tan,-0.0625676546878622,-0.0703731481410569,0,0
+buyer_N_1_total_value_high,Fur_recoded_White,0.0278594233846691,0.0295944850771067,0,0
+buyer_N_1_total_value_high,Fur_recoded_Zombie,0.0281819891610785,0.0386906277965993,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Baby's Bonnet`,-0.0401544259880037,-0.0236654727983473,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Bayc Flipped Brim`,0.0398435284919134,0.054514793665976,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Bayc Hat Black`,-0.013026219082075,0.0112836257383202,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Bayc Hat Red`,-0.000418612032358768,0.0158468466939723,0,0
+buyer_N_1_total_value_high,Hat_recoded_Beanie,0.00455106560767677,0.012161555204205,0,0
+buyer_N_1_total_value_high,Hat_recoded_Bowler,0.00402277866479136,-0.00332491881318115,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Bunny Ears`,0.0298195742343973,0.027068677284333,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Commie Hat`,-0.0108037501918079,-0.00610722646105118,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Cowboy Hat`,0.0130523031381023,-0.040682246034051,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Faux Hawk`,-0.000458105423900232,-0.000258636537673144,0,0
+buyer_N_1_total_value_high,Hat_recoded_Fez,-0.00733926105132168,-0.0680436133896997,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Fisherman's Hat`,0.0061779415460145,-0.00607520092648887,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Girl's Hair Pink`,0.0296525131410335,0.038722740785015,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Girl's Hair Short`,0.00965606481660202,0.0292915803492645,0,0
+buyer_N_1_total_value_high,Hat_recoded_Halo,-0.00218575945497501,0.00976049027086537,0,0
+buyer_N_1_total_value_high,Hat_recoded_Horns,0.056373786969394,0.0563809258907895,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Irish Boho`,-0.0423982727710676,-0.076877987624972,0,0
+buyer_N_1_total_value_high,Hat_recoded_No_Hat,-0.00768222047214357,0.0110376055092647,0,0
+buyer_N_1_total_value_high,Hat_recoded_Other_Hat,0.0102940522079817,0.0413540656940617,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Party Hat 1`,0.0134528449942117,0.00687502111134379,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Party Hat 2`,-0.00773016621740032,-0.0167308809275968,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Police Motorcycle Helmet`,0.0170139325281773,-0.00379209773742076,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Prussian Helmet`,-0.00500527043907099,-0.0190898820908348,0,0
+buyer_N_1_total_value_high,`Hat_recoded_S&m Hat`,-0.00228211894940987,0.00835186889594746,0,0
+buyer_N_1_total_value_high,Hat_recoded_Safari,-0.0116629785797121,-0.0176032395296955,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Sea Captain's Hat`,-0.0562589299274917,-0.013839566072202,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Seaman's Hat`,0.00041257762765565,-0.0049860968462834,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Short Mohawk`,-0.000760070079301742,-0.0176915745717644,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Spinner Hat`,0.00133276594799799,0.00799808498972857,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Stuntman Helmet`,-0.0348451574836313,-0.0290305019758665,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Sushi Chef Headband`,0.00709200187804298,0.00341123888796332,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Vietnam Era Helmet`,0.0197986184393782,0.042817377840267,0,0
+buyer_N_1_total_value_high,`Hat_recoded_Ww2 Pilot Helm`,0.0142543405727312,-0.0172272657283784,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Bubblegum`,-0.00284211577702718,0.0030697718393509,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Cigar`,-0.0339345526458252,-0.0417367596229625,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Cigarette`,-0.0465147789903326,-0.0211723501364938,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Pipe`,-0.00504608379202328,0.00848632911551672,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Unshaven`,0.0270483092494859,0.0405952834387405,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Bored Unshaven Cigarette`,0.0316729823271807,0.0325930380224466,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Discomfort,-0.020357294026542,-0.0246187178809063,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Dumbfounded,0.0169724154675211,-0.00631350749263374,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Grin,-0.0180169791163265,-0.0429499413114974,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Grin Multicolored`,0.0319620172956189,0.0425047789220923,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Jovial,-0.0246788183415229,-0.0077388326818555,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Other_Mouth,0.00458000823729694,0.0277490976079305,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Phoneme  ooo`,-0.0166026289174548,-0.0327403673640209,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Phoneme L`,0.0141572797151954,-0.00242725318592131,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Phoneme Oh`,0.00744535032309278,-0.00507106018278296,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Phoneme Vuh`,0.0129509535102811,-0.000512188711435014,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Phoneme Wah`,0.0238052923435992,0.0379076694482598,0,0
+buyer_N_1_total_value_high,Mouth_recoded_Rage,0.0116550246992886,-0.00744923876377782,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Small Grin`,0.0527723897731318,0.0629711504898724,0,0
+buyer_N_1_total_value_high,`Mouth_recoded_Tongue Out`,-0.0156430568663105,-0.0221722747899777,0,0
+buyer_N_1_total_value_high,`log_price_change_n-1`,-0.0646127427533304,-0.0194124815685657,0,0
