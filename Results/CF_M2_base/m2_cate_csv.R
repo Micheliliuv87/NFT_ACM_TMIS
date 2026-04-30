@@ -12,7 +12,7 @@ top_k <- 3
 df_1 <- read.csv("cf_M2_V7_up_cate_by_covariate_overview.csv")
 df_2 <- read.csv("cf_M2_V7_up_covariate_smd_and_cate.csv")
 
-# BLP per covariate (already has r2_tau joined in your main script)
+# BLP per covariate (already has r2_tau joined in main script)
 # expected cols: treatment, covariate, p_value, coef_pct, n_obs, method, r2_tau, r2_tau_oos
 blp <- read.csv("cf_M2_V7_up_BLP_per_covariate.csv") %>%
   select(treatment, covariate, p_value, coef_pct, n_obs, method,

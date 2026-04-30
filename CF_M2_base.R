@@ -1144,7 +1144,7 @@ if (length(all_rows)) {
     )], "cf_M2_V7_up_treatment_results_with_q.csv")
   }
   
-  # --- dashboards with GATES + labels (replace your build_dashboard) ---
+  # --- dashboards with GATES + labels (replace build_dashboard) ---
   build_dashboard <- function(res_tbl, model_label) {
     if (!nrow(res_tbl)) return(NULL)
     

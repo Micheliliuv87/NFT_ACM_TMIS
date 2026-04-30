@@ -1,6 +1,6 @@
 # ================================
 # Paper CATE Pack (v2)
-# Uses outputs from your v7 toolkit
+# Uses outputs from v7 toolkit
 # ================================
 suppressPackageStartupMessages({
   library(data.table)
@@ -12,12 +12,12 @@ suppressPackageStartupMessages({
 # -------- Paths / params --------
 RESULTS_Q <- "nft_trait_v7_results_with_q.csv"
 OUT_DIR   <- "nft_cf_cate_reports_v7"           # where v7 wrote per-combo files
-PAPER_DIR <- file.path(OUT_DIR, "paper_assets")  # same place your other paper files went
+PAPER_DIR <- file.path(OUT_DIR, "paper_assets")  # same place other paper files went
 dir.create(PAPER_DIR, showWarnings = FALSE, recursive = TRUE)
 
 K_SET          <- 1:4
-TOP_N_PER_K    <- 5            # set to 1 if you want one combo per K
-SHOW_DRILLDOWN <- TRUE         # set FALSE if you only want the main table + lift plot
+TOP_N_PER_K    <- 5            # set to 1 if one combo per K
+SHOW_DRILLDOWN <- TRUE         # set FALSE if only the main table + lift plot
 
 ROUND1 <- function(x) ifelse(is.finite(as.numeric(x)), round(as.numeric(x), 1), NA_real_)
 ROUND2 <- function(x) ifelse(is.finite(as.numeric(x)), round(as.numeric(x), 2), NA_real_)
