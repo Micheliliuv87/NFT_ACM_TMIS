@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Eyes_Sad+Mouth_Bored,3,0,all,-0.111173049345597,0.0634461078902829,-0.111156006201816,0.0633771397019023,-0.12702448052732,0.056704339082518,-0.127015601820447,0.0566222495483685

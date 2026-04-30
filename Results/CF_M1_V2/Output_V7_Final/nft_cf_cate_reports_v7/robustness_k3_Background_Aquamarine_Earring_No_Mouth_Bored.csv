@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Background_Aquamarine+Earring_No+Mouth_Bored,3,0.02,overlap,-0.230691404307563,0.0297758654464694,-0.230691404307563,0.0297758654464694,-0.231986637390973,0.029742483455558,-0.231988891546316,0.0297892486816087

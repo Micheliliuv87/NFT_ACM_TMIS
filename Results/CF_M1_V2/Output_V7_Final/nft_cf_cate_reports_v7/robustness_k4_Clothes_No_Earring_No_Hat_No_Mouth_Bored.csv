@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Clothes_No+Earring_No+Hat_No+Mouth_Bored,4,0,all,0.425131372979656,0.148409321169931,0.427212741045364,0.148135429388978,0.430861309893059,0.132136247448203,0.430853595261738,0.131901130917901

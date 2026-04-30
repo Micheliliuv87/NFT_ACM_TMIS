@@ -1,0 +1,5 @@
+K,Combination,n_kept,kept_pct,ATE_pct,CI95_lo,CI95_hi,Median_pct,IQR_lo,IQR_hi,Share_pos_pct,GATES_bot_mean,GATES_top_mean,GATES_lift,Combo_full,Stub
+1,Mouth:Other,9243,99.9,39.1,31.7,47,38.6,37,41.3,100,35.3,44.5,9.2,Mouth_Other,Mouth_Other
+2,Cl:Other+Ear:No,9247,99.9,32.9,22.4,44.3,33.5,31.7,33.8,100,31.1,34.2,3.1,Clothes_Other+Earring_No,Clothes_Other_Earring_No
+3,BG:Aquamarine+Ear:No+Fur:Black,9254,100,-19.2,-26,-11.8,-19.1,-19.2,-19,0,-19.4,-18.9,0.6,Background_Aquamarine+Earring_No+Fur_Black,Background_Aquamarine_Earring_No_Fur_Black
+4,Ear:No+Fur:Dark·Brown+Hat:No+Mouth:Bored,9254,100,-19.2,-25.4,-12.4,-19.4,-19.5,-19.3,0,-19.6,-19.1,0.5,Earring_No+Fur_Dark.Brown+Hat_No+Mouth_Bored,Earring_No_Fur_Dark_Brown_Hat_No_Mouth_Bored

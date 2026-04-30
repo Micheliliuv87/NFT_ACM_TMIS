@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Fur_Black,1,0.05,overlap,-0.0852878873058932,0.0186485020297742,-0.0852878873058932,0.0186485020297742,-0.0844786895513839,0.0187886272870777,-0.0845412784922927,0.0187587517192187

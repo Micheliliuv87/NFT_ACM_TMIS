@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Fur_Black+Mouth_Bored,2,0.02,overlap,-0.109499802800271,0.0332102767497546,-0.109499802800271,0.0332102767497546,-0.109691918632124,0.0333365051639758,-0.109684468039868,0.0333181865519881

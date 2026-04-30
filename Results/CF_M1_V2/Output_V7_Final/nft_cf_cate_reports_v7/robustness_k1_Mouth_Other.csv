@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Mouth_Other,1,0.05,overlap,0.331604221429632,0.0281698674222539,0.331604221429632,0.0281698674222539,0.331959905489101,0.028208276048951,0.331964737026698,0.0282057835835553

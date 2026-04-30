@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Eyes_Sad,1,0.05,overlap,-0.111221748601853,0.0329954769732079,-0.111221748601853,0.0329954769732079,-0.111050746998932,0.0329470536864372,-0.111099793514353,0.0330307968553122

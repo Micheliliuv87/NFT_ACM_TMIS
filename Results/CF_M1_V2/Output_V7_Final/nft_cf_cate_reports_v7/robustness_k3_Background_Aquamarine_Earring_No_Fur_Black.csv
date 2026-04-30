@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Background_Aquamarine+Earring_No+Fur_Black,3,0,all,-0.208117637463615,0.0441979705378233,-0.208470507082969,0.0442088553178451,-0.213140203340682,0.0448679750274047,-0.213145307624241,0.0448809792684752

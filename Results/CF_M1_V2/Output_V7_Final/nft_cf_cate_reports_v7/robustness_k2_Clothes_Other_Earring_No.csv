@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Clothes_Other+Earring_No,2,0.02,overlap,0.286164677884591,0.0419755136844048,0.286164677884591,0.0419755136844048,0.286201330806534,0.0420452208301079,0.286211827189929,0.0419746663898861

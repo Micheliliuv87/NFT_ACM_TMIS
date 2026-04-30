@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Eyes_Bored+Fur_Golden.Brown,3,0.02,overlap,-0.518807985459744,17.7623893988688,-0.518807985459744,17.7623893988688,-0.191533637423834,17.7323851330016,-0.185356972872643,18.0300680476548

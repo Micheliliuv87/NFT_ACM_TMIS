@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Mouth_Other,2,0.05,overlap,0.347014591078965,0.0432969250987248,0.347014591078965,0.0432969250987248,0.347400485932811,0.0432773843074831,0.347336964318698,0.0433695321238145

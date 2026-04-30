@@ -1,0 +1,7 @@
+treatment,k,family,level,n,mean_pct,lo_pct,hi_pct
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Bloodshot,776,-6.66388155424712,-6.7075664506427,-6.61965613491508
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Bored,1586,-6.65584956445347,-6.68351710980221,-6.62855969025056
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Closed,677,-6.6462013057067,-6.69120171467814,-6.60484417094562
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Sad,519,-6.66613495086597,-6.71413064643792,-6.61088753674748
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Sleepy,689,-6.57867640103131,-6.61891226879227,-6.53553199167855
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,Eyes,Wide.Eyed,510,-6.66685837400236,-6.71626769759096,-6.61794657805501

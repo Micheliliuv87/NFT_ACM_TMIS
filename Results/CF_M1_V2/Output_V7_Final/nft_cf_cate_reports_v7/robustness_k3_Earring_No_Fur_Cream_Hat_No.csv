@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Fur_Cream+Hat_No,3,0,all,-0.122030895558964,0.0536517159485965,-0.122109227155257,0.0536471370683871,-0.136992410175662,0.0483236164884599,-0.136987213404374,0.0482846082508099

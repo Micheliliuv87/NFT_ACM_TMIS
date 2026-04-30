@@ -1,0 +1,5 @@
+K,Combination,Cal_intercept,Cal_slope,BLP_month_beta,BLP_month_se,Base_ATE_all,Robust_ATE_all,Delta_all,Base_ATE_treated,Robust_ATE_treated,Delta_treated,Combo_full,Stub
+1,Mouth:Other,,,,,0.33,0.33,0,0.33,0.33,0,Mouth_Other,Mouth_Other
+2,Cl:Other+Ear:No,,,,,0.29,0.29,0,0.29,0.29,0,Clothes_Other+Earring_No,Clothes_Other_Earring_No
+3,BG:Aquamarine+Ear:No+Fur:Black,,,0.02,,-0.21,-0.21,0,-0.21,-0.21,0,Background_Aquamarine+Earring_No+Fur_Black,Background_Aquamarine_Earring_No_Fur_Black
+4,Ear:No+Fur:Dark·Brown+Hat:No+Mouth:Bored,,,0.02,,-0.22,-0.22,0,-0.21,-0.21,0,Earring_No+Fur_Dark.Brown+Hat_No+Mouth_Bored,Earring_No_Fur_Dark_Brown_Hat_No_Mouth_Bored

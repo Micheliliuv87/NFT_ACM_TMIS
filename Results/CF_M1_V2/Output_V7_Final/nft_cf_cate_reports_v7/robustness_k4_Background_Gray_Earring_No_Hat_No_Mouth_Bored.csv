@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Background_Gray+Earring_No+Hat_No+Mouth_Bored,4,0,all,0.0139307136950357,0.195010515964656,0.0113919949050401,0.194412191885769,-0.071082438486324,0.132695689049561,-0.071100793380389,0.132574862207788

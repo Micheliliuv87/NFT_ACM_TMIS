@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Eyes_Wide.Eyed,1,0.05,overlap,-0.0928362347772681,0.0284042942360749,-0.0928362347772681,0.0284042942360749,-0.0929665920766576,0.0284708444112762,-0.0929797712381817,0.028445436582623

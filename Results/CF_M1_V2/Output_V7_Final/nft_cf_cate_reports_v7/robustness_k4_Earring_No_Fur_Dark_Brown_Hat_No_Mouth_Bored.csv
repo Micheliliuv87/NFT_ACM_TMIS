@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Fur_Dark.Brown+Hat_No+Mouth_Bored,4,0,all,-0.220899590284831,0.0430606047596699,-0.220325976481857,0.0430798074766723,-0.213969445091425,0.0406738966468135,-0.213972575054639,0.0406282060242907

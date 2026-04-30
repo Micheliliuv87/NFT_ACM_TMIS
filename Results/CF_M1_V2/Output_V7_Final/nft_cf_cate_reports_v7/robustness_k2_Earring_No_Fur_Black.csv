@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Earring_No+Fur_Black,2,0.05,overlap,-0.0843991336239061,0.0225451527181258,-0.0843991336239061,0.0225451527181258,-0.0835504305467608,0.0226968626107493,-0.0835931532072511,0.0226767536928898

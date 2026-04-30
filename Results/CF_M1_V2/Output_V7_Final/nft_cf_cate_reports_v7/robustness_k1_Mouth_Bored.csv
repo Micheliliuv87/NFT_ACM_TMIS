@@ -1,0 +1,2 @@
+treatment,k,alpha_used,target_sample,baseline_est_all,baseline_se_all,robust_est_all,robust_se_all,baseline_est_treat,baseline_se_treat,robust_est_treat,robust_se_treat
+Mouth_Bored,1,0.05,overlap,-0.0583724366575286,0.0155201709613869,-0.0583724366575286,0.0155201709613869,-0.0579659120113762,0.015532531210799,-0.0579786869243469,0.0155262441382422
